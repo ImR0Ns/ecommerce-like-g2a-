@@ -1,0 +1,286 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.navBar {
+  position: absolute;
+  width: 29.45px;
+  height: 0px;
+  left: 36.69px;
+  top: 31.96px;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  width: 170px;
+  height: 59px;
+  left: 875px;
+  top: 14.96px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 59px;
+  /* identical to box height */
+
+  color: #1e90ff;
+}
+.lupaSearch {
+  position: absolute;
+  left: 1850px;
+  right: 2.57%;
+  top: 27.96px;
+  bottom: 94.18%;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+    cursor: pointer;
+}
+.baraHeader {
+  position: absolute;
+  width: 1920.01px;
+  height: 0px;
+  left: 0px;
+  top: 97.33px;
+
+  border: 2px solid #1e90ff;
+}
+.titleP {
+position: absolute;
+width: 245px;
+height: 70px;
+left: 837.5px;
+top: 188.91px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 70px;
+
+color: #1E90FF;
+
+}
+.goP {
+position: absolute;
+width: 971px;
+height: 59px;
+left: 65.8px;
+top: 385.81px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 100px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.tryP {
+position: absolute;
+width: 971px;
+height: 59px;
+left: 165.8px;
+top: 485.81px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.buyN {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: absolute;
+width: 461.93px;
+height: 90.62px;
+left: 165.8px;
+top: 581.07px;
+
+background: linear-gradient(256.84deg, #1E90FF -4.37%, #052D68 134.01%);
+box-shadow: 0px 4px 8px rgba(5, 45, 104, 0.25);
+border-radius: 30px;
+border: none;
+}
+.priceP {
+position: absolute;
+width: 86px;
+height: 59px;
+left: 679.29px;
+top: 596.88px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.letsSee {
+position: absolute;
+width: 897.95px;
+height: 50.39px;
+left: 511.03px;
+top: 898.59px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+
+color: #1B86F1;
+
+}
+.circle {
+position: absolute;
+width: 302.62px;
+height: 306.07px;
+left: 60.04px;
+top: 1112.84px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 50%;
+}
+.subT {
+position: absolute;
+width: 353.99px;
+height: 94px;
+left: 34.36px;
+top: 1460.06px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+
+color: #1774D4;
+
+}
+.twoA {
+    position: absolute;
+    left: 380px;
+}
+.threeA {
+    position: absolute;
+    left: 750px;    
+}
+.fourA {
+    position: absolute;
+    left: 1150px;    
+}
+.fiveA {
+    position: absolute;
+    left: 1550px;       
+}
+.firstImg {
+    position: absolute;
+    top: 100.1px;
+    left: 1430px;
+}
+.twoImg {
+    position: absolute;
+    top: 139.68px;
+    left: 0px;
+}
+.threeImg {
+    position: absolute;
+    left: 0px;
+    top: 800.75px;
+}
+.zeodonP {
+    position: absolute;
+    width: 386px;
+    height: 59px;
+    left: 165.5px;
+    top: 1664.61px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.videoI {
+    position: absolute;
+width: 1450.44px;
+height: 693.99px;
+left: 234.78px;
+top: 1807.7px;
+
+background: rgba(96, 96, 96, 0.7);
+border-radius: 10px;
+}
+.joinP {
+    position: absolute;
+    width: 897.95px;
+    height: 50.39px;
+    left: 165.5px;
+    top: 2604.61px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+
+    color: #1B86F1;
+
+}
+.buyNA {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: absolute;
+width: 461.93px;
+height: 60.62px;
+left: 1165.8px;
+top: 2604.61px;
+
+background: linear-gradient(256.84deg, #1E90FF -4.37%, #052D68 134.01%);
+box-shadow: 0px 4px 8px rgba(5, 45, 104, 0.25);
+border-radius: 30px;
+border: none;
+}

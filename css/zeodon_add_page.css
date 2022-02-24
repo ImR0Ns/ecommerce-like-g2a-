@@ -1,0 +1,680 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.navBar {
+  position: absolute;
+  width: 29.45px;
+  height: 0px;
+  left: 36.69px;
+  top: 31.96px;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  width: 170px;
+  height: 59px;
+  left: 875px;
+  top: 14.96px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 59px;
+  /* identical to box height */
+
+  color: #1e90ff;
+}
+.lupaSearch {
+  position: absolute;
+  left: 1850px;
+  right: 2.57%;
+  top: 27.96px;
+  bottom: 94.18%;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+    cursor: pointer;
+}
+.baraHeader {
+  position: absolute;
+  width: 1920.01px;
+  height: 0px;
+  left: 0px;
+  top: 97.33px;
+
+  border: 2px solid #1e90ff;
+}
+.goBackButt {
+position: absolute;
+width: 103px;
+height: 23px;
+left: 397.5px;
+top: 307.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.7);
+border: none;
+background: transparent;
+
+}
+.imgsImg {
+position: absolute;
+width: 557px;
+height: 291px;
+left: 376.5px;
+top: 369.51px;
+
+background: #000000;
+border-radius: 5px;
+}
+.titleAnnn {
+position: absolute;
+width: 582px;
+height: 70px;
+left: 1028.5px;
+top: 369.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+}
+.platform {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #1E90FF;
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  left: 1028.5px;
+  top: 493.51px;
+  
+  background: #FFFFFF;
+  border: 1px solid #1E90FF;
+  box-sizing: border-box;
+  border-radius: 5px;
+  
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px 0px 0px 0px;
+}
+.server {
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  left: 1028.5px;
+  top: 570.51px;
+  
+  background: #FFFFFF;
+  border: 1px solid #1E90FF;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+
+text-align: center;
+padding: 5px 0px 0px 0px;
+}
+.Quanitity {
+  position: absolute;
+  width: 180px;
+  height: 45px;
+  left: 1028.5px;
+  top: 647.51px;
+  
+  background: #FFFFFF;
+  border: 1px solid #1E90FF;
+  box-sizing: border-box;
+  border-radius: 5px;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+
+text-align: center;
+padding: 5px 0px 0px 0px;
+}
+.imgUser {
+position: absolute;
+width: 58px;
+height: 56px;
+left: 1290.5px;
+top: 482.51px;
+
+background: #000000;
+border-radius: 50%;
+border: none;
+}
+.userNameName {
+position: absolute;
+width: 200px;
+height: 35px;
+left: 1366.5px;
+top: 493.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #495057;
+
+}
+.priceAnn {
+position: absolute;
+width: 154px;
+height: 53px;
+left: 1440.5px;
+top: 578.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.buyNow {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+position: absolute;
+width: 251.72px;
+height: 61.15px;
+left: 1302.78px;
+top: 642.24px;
+
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 3px;
+background-color: transparent;
+}
+.descriptionAnn {
+position: absolute;
+width: 154px;
+height: 35px;
+left: 376.5px;
+top: 723.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #495057;
+
+}
+.descriptionRAnn {
+
+position: absolute;
+width: 1140px;
+height: 154px;
+left: 407.5px;
+top: 778.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #B3B3B3;
+
+}
+.linieUnu {
+    position: absolute;
+width: 1253.01px;
+height: 0px;
+left: 376.5px;
+top: 985.51px;
+
+border: 0.5px solid #B3B3B3;
+}
+.rotundZ {
+position: absolute;
+width: 99px;
+height: 87px;
+left: 377.5px;
+top: 1024.51px;
+
+background: #1E90FF;
+border-radius: 50%;
+}
+.zeodonProtection {
+position: absolute;
+width: 413px;
+height: 36px;
+left: 497.5px;
+top: 1024.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+/* identical to box height */
+
+
+color: #495057;
+
+}
+.subTProt {
+position: absolute;
+width: 1129px;
+height: 46px;
+left: 524.5px;
+top: 1070.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #B3B3B3;
+
+}
+.learnMoreProt {
+position: absolute;
+width: 92px;
+height: 21px;
+left: 1537.31px;
+top: 1128.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.linieDoi {
+    position: absolute;
+width: 1253.01px;
+height: 0px;
+left: 376.5px;
+top: 1165.51px;
+
+border: 0.5px solid #B3B3B3;
+}
+.rotundZD {
+position: absolute;
+width: 99px;
+height: 87px;
+left: 377.5px;
+top: 1184.51px;
+
+background: #1E90FF;
+border-radius: 50%;
+}
+.zeodonProtectionD {
+position: absolute;
+width: 295px;
+height: 35px;
+left: 497.5px;
+top: 1189.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #495057;
+}
+.subTProtD {
+position: absolute;
+width: 775px;
+height: 23px;
+left: 524.5px;
+top: 1234.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #B3B3B3;
+}
+
+.linieDoiT {
+    position: absolute;
+width: 1253.01px;
+height: 0px;
+left: 376.5px;
+top: 1305.51px;
+
+border: 0.5px solid #B3B3B3;
+}
+.moreAboutSeller {
+position: absolute;
+width: 273px;
+height: 41px;
+left: 376.5px;
+top: 1384.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #495057;
+
+}
+.succesRateProt {
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+position: absolute;
+width: 615px;
+height: 62px;
+left: 568.84px;
+top: 1722.62px;
+
+background: #FFFFFF;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 5px;
+padding: 10px 0px 0px 20px;
+}
+.procentsS {
+position: absolute;
+left: 500px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.viewProfile {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+position: absolute;
+width: 224.67px;
+height: 56.12px;
+left: 1414.46px;
+top: 1753.12px;
+
+background: #FFFFFF;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.linieGroasa {
+position: absolute;
+width: 100%;
+height: 17px;
+left: 0px;
+top: 1821.24px;
+
+background: linear-gradient(90.92deg, #1E90FF -4.16%, rgba(2, 226, 255, 0.64) 115.16%);
+border-radius: 10px;
+}
+.makeBussinesW {
+position: absolute;
+width: 404px;
+height: 41px;
+left: 377.5px;
+top: 1874.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #495057;
+
+}
+.hireApp {
+position: absolute;
+width: 526px;
+height: 41px;
+left: 486.5px;
+top: 1995.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.askForDisc {
+position: absolute;
+width: 283px;
+height: 41px;
+left: 486.5px;
+top: 2084.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.hireAppButt {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+position: absolute;
+width: 183px;
+height: 52px;
+left: 1372.5px;
+top: 1990.51px;
+
+background: #FFFFFF;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.askNowButt {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+position: absolute;
+width: 183px;
+height: 52px;
+left: 1372.5px;
+top: 2080.51px;
+
+background: #FFFFFF;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.maiJosPTcASE {
+    position: absolute;
+    top: 500px;
+}
+.dropsCasess {
+position: absolute;
+width: 106px;
+height: 47px;
+left: 159.01px;
+top: 50px;
+left: 359.01px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.caseImgC {
+position: absolute;
+left: 420px;
+top: 120px;
+}
+.caseTitle {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+position: absolute;
+left: 650px;
+top: 120px;
+}
+.procentsForCC {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+width: 200px;
+color: #1E90FF;
+position: absolute;
+left: 1250px;
+top: 140px;
+}
+.linieCC {
+position: absolute;
+width: 1375.56px;
+top: 250px;
+left: 360px;
+
+border: 1px solid rgba(0, 0, 0, 0.4);
+}
+.casesAdd {
+    position: absolute;
+    top: 500px;
+}
+.platFTitle {
+  position: absolute;
+  width: 78px;
+  height: 23px;
+  left: 1028.5px;
+  top: 471.51px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #495057;
+}
+.servFTitle {
+  position: absolute;
+  width: 57px;
+  height: 23px;
+  left: 1028.5px;
+  top: 547.51px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #495057;
+}
+.quantFTitle {
+  position: absolute;
+  width: 75px;
+  height: 23px;
+  left: 1028.5px;
+  top: 624.51px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #495057;
+}
+.caseAbSS {
+  position: absolute;
+  top: -100px;
+}

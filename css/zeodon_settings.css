@@ -1,0 +1,1053 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.imgP {
+    position: absolute;
+    left: -10px;
+}
+.titlte {
+    position: absolute;
+width: 514px;
+height: 82px;
+left: 1014.15px;
+top: 133.47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 70px;
+line-height: 82px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.casewithdraw {
+    position: absolute;
+    width: 326.98px;
+    height: 325.21px;
+    left: 284.49px;
+    top: 479.3px;
+
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.imgWD {
+    position: absolute;
+width: 171px;
+height: 174px;
+left: 70px;
+top: 25px;
+}
+.titleWD {
+    position: absolute;
+width: 169px;
+height: 47px;
+left: 75px;
+top: 250px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+color: #1E90FF;
+}
+.deposit {
+    position: absolute;
+    left: 500px;
+}
+.security {
+    position: absolute;
+    left: 1000px;   
+}
+.allThreeB{
+    position: absolute;
+    left: 0px;
+    top: 500px;
+}
+.imgNotifications {
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+.backButtonNot {
+position: absolute;
+width: 52px;
+height: 28px;
+left: 123.31px;
+top: 86.48px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #F7B733;
+
+}
+.caseNot {
+position: absolute;
+width: 1222.02px;
+height: 1003.31px;
+left: 348.99px;
+top: 217.34px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.notificationTitle {
+position: absolute;
+width: 230px;
+height: 47px;
+left: 390.84px;
+top: 247.77px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #F7B733;
+
+}
+.notificationSubTitlte {
+
+position: absolute;
+width: 570px;
+height: 28px;
+left: 438.06px;
+top: 294.77px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #B3B3B3;
+
+}
+.generalNotifc {
+position: absolute;
+width: 138px;
+height: 47px;
+left: 423.36px;
+top: 390.07px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.whenYouSold {
+position: absolute;
+width: 400px;
+height: 28px;
+left: 438.06px;
+top: 507.39px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 28px;
+
+color: #F7B733;
+}
+.OnWeb {
+position: absolute;
+width: 86px;
+height: 28px;
+left: 484.85px;
+top: 581.95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #B3B3B3;
+
+}
+.OnEmail {
+
+position: absolute;
+width: 60px;
+height: 28px;
+left: 484.85px;
+top: 634.95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #B3B3B3;
+
+}
+.OnApp {
+position: absolute;
+width: 43px;
+height: 28px;
+left: 484.85px;
+top: 687.95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #B3B3B3;
+
+}
+.activateOnWeb {
+    position: absolute;
+width: 63px;
+height: 28px;
+left: 653.06px;
+top: 581.95px;
+background-color: #F7B733;
+border: none;
+border-radius: 10px;
+}
+.activateOnEmail {
+position: absolute;
+width: 64px;
+height: 28px;
+left: 653.19px;
+top: 634.95px;
+background-color: #F7B733;
+border: none;
+border-radius: 10px;
+}
+.activateOnApp {
+position: absolute;
+width: 64px;
+height: 28px;
+left: 653.06px;
+top: 687.95px;
+background-color: #F7B733;
+border: none;
+border-radius: 10px;
+}
+.orderStatus {
+    position: absolute;
+    left: 400px;
+}
+.commentProfile {
+    position: absolute;
+    left: 800px;    
+}
+.whenYOuRec {
+    position: absolute;
+    top: 400px;
+}
+.WhenSom {
+    position: absolute;
+    top: 400px;
+        left: 400px;
+}
+.ZeodonUp{
+    position: absolute;
+    top: 400px;
+        left: 800px;    
+}
+.idVerBg {
+    position: absolute;
+    width: 1222.02px;
+    height: 1003.31px;
+    left: 348.99px;
+    top: 133.85px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.titleIdVer {
+    position: absolute;
+    width: 253px;
+    height: 47px;
+    left: 400.34px;
+    top: 158.27px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #22BE86;
+    
+}
+.subTitlIdVer {
+    position: absolute;
+    width: 577px;
+    height: 35px;
+    left: 433.91px;
+    top: 205.27px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #B3B3B3;
+    
+}
+.letUsKnow {
+    position: absolute;
+    width: 378px;
+    height: 47px;
+    left: 403px;
+    top: 317.5px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+    
+}
+.firstNameVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+width: 357.13px;
+height: 46.6px;
+left: 433.91px;
+top: 407px;
+
+background: #FFFFFF;
+border: 0.8px solid #22BE86;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.lastNameVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+width: 357.13px;
+height: 46.6px;
+left: 433.91px;
+top: 487.7px;
+
+background: #FFFFFF;
+border: 0.8px solid #22BE86;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.countryVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+    width: 357.13px;
+    height: 46.6px;
+    left: 433.91px;
+    top: 568.41px;
+    
+    background: #FFFFFF;
+    border: 0.8px solid #22BE86;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.cityVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+    width: 357.13px;
+    height: 46.6px;
+    left: 972.28px;
+    top: 407px;
+    
+    background: #FFFFFF;
+    border: 0.8px solid #22BE86;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.addressVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+    width: 357.13px;
+    height: 46.6px;
+    left: 972.28px;
+    top: 487.7px;
+    
+    background: #FFFFFF;
+    border: 0.8px solid #22BE86;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.postalCodeVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #22BE86;
+    position: absolute;
+    width: 357.13px;
+    height: 46.6px;
+    left: 972.28px;
+    top: 568.41px;
+    
+    background: #FFFFFF;
+    border: 0.8px solid #22BE86;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.hmmYouH {
+    position: absolute;
+width: 477px;
+height: 47px;
+left: 403px;
+top: 691.73px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.submitButtId {
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+position: absolute;
+width: 316.71px;
+height: 67.33px;
+left: 1206.41px;
+top: 1041.34px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.securityBgD {
+
+    position: absolute;
+    width: 1222.02px;
+    height: 1003.31px;
+    left: 348.99px;
+    top: 128.85px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.titleSecSett {
+    position: absolute;
+    width: 146px;
+    height: 47px;
+    left: 397.51px;
+    top: 153.45px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+}
+.subTitleSecSett {
+    position: absolute;
+    width: 463px;
+    height: 28px;
+    left: 423.23px;
+    top: 200.45px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #B3B3B3;
+}
+.secGeneralSett {
+    position: absolute;
+    width: 138px;
+    height: 47px;
+    left: 397.51px;
+    top: 285.6px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.imgIdVerINP {
+    position: absolute;
+    left: -10px;
+}
+.usernameSecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 423.23px;
+    top: 362.3px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+}
+.passwordSecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 426.23px;
+    top: 410.74px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+}
+.firstNameSecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 418.23px;
+    top: 459.18px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+    
+}
+.lastNameSecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 420.23px;
+    top: 507.63px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+    
+}
+.countrySecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 980.11px;
+    top: 362.3px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+}
+.citySecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 1021.49px;
+    top: 410.74px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+}
+.addressSecurity {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 974px;
+    top: 459.18px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+    
+}
+.phoneNumberSec {
+    position: absolute;
+    width: 510px;
+    height: 28px;
+    left: 906.48px;
+    top: 507.63px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #8E54E9;
+    
+}
+.semnAtentieApp {
+    position: absolute;
+    left: 440px;
+    top: 630px;
+    
+
+}
+.textZeodonSemnApp {
+    position: absolute;
+    width: 980px;
+    height: 28px;
+    left: 528.5px;
+    top: 647.33px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.faAccCode {
+    position: absolute;
+    width: 145px;
+    height: 41px;
+    left: 779.61px;
+    top: 715.28px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+}
+.bg2faCodee {
+    position: absolute;
+    width: 360.78px;
+    height: 87.02px;
+    left: 779.61px;
+    top: 769.46px;
+    
+    background: #FFFFFF;
+    border: 2px solid rgba(142, 84, 233, 0.2);
+    box-sizing: border-box;
+    box-shadow: 0px 2px 8px rgba(142, 84, 233, 0.25);
+    border-radius: 10px;
+}
+.actuallycode2FAAcc {
+    position: absolute;
+    width: 237px;
+    height: 47px;
+    left: 841.5px;
+    top: 789.47px;
+    
+    letter-spacing: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+    
+}
+.faForCCC {
+    position: absolute;
+    width: 59px;
+    height: 41px;
+    left: 563.02px;
+    top: 935.94px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+    
+}
+.faMethodsChestie {
+    position: absolute;
+    width: 188px;
+    height: 41px;
+    left: 866px;
+    top: 935.94px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+    
+}
+.securityLevelFA {
+    position: absolute;
+    width: 205px;
+    height: 41px;
+    left: 1224.98px;
+    top: 935.94px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #8E54E9;
+    
+}
+.buttforfaForCCC {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #8E54E9;
+    
+    position: absolute;
+    width: 340.99px;
+    height: 61.97px;
+    left: 422.03px;
+    top: 981.86px;
+
+    background: #FFFFFF;
+    border: 1px solid #8E54E9;
+    box-sizing: border-box;
+    border-radius: 6px;
+
+}
+.buttforfaMethodsChestie {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #8E54E9;
+position: absolute;
+width: 340.99px;
+height: 61.97px;
+left: 789.51px;
+top: 981.86px;
+
+background: #FFFFFF;
+border: 1px solid #8E54E9;
+box-sizing: border-box;
+border-radius: 6px;
+}
+.buttforsecurityLevelFA {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #8E54E9;
+    position: absolute;
+    width: 340.99px;
+    height: 61.97px;
+    left: 1156.98px;
+    top: 981.86px;
+    
+    background: #FFFFFF;
+    border: 1px solid #8E54E9;
+    box-sizing: border-box;
+    border-radius: 6px;    
+}
+.connaccsett {
+    position: absolute;
+    width: 368px;
+    height: 47px;
+    left: 398.05px;
+    top: 156.47px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #FC466B;
+    
+}
+.connaccsettsub {
+    position: absolute;
+    width: 421px;
+    height: 28px;
+    left: 425.65px;
+    top: 203.47px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #B3B3B3;
+    
+}
+.socialiconsimgs {
+    position: absolute;
+    width: 83.86px;
+    height: 650.38px;
+    left: 425.65px;
+    top: 337.97px;
+    
+}
+.socialFbTT {
+    position: absolute;
+    width: 131px;
+    height: 35px;
+    left: 540.64px;
+    top: 337.97px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.subtitlsesocialFbTT {
+    position: absolute;
+    width: 472px;
+    height: 28px;
+    left: 540.64px;
+    top: 378.56px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.igsS {
+    position: absolute;
+    left: 0px;
+    top: 145px;
+}
+.googlesS {
+    position: absolute;
+    left: 0px;
+    top: 290px;
+}
+.twitterSs {
+    position: absolute;
+    left: 0px;
+    top: 435px;
+}
+.steamSs {
+    position: absolute;
+    left: 0px;
+    top: 580px;
+}
+.connectButt {
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+position: absolute;
+width: 273.37px;
+height: 59.16px;
+left: 1245.98px;
+top: 343.38px;
+
+background: #FFFFFF;
+border-radius: 6px;
+}
+.depositTilt {
+    position: absolute;
+    width: 138px;
+    height: 47px;
+    left: 403px;
+    top: 160px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #24C6DC;
+    
+}
+.depositSubTilt {
+    position: absolute;
+width: 476px;
+height: 28px;
+left: 430.78px;
+top: 207px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #B3B3B3;
+
+}
+.manageButtonDeposit {
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #24C6DC;
+position: absolute;
+width: 296.85px;
+height: 60.12px;
+left: 1251.67px;
+top: 150.45px;
+
+background: #FFFFFF;
+border: 1.5px solid #24C6DC;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.idCardPhoto {
+    position: absolute;
+    width: 676.94px;
+    height: 62px;
+    left: 433.91px;
+    top: 772.83px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+}
+.photoHoldingIdCard {
+    position: absolute;
+    width: 676.94px;
+    height: 62px;
+    left: 433.91px;
+    top: 920.86px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+}

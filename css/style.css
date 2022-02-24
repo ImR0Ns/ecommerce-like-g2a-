@@ -1,0 +1,344 @@
+.title a{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #104fac;
+}
+.forEach {
+    border-bottom: 2px solid #104FAC;
+}
+.forEach i{
+    color: #104fac;
+    cursor: pointer;
+}
+.background_phone {
+    height: 516.3258056640625px;
+    width: 1517.413818359375px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 150px;
+}
+.news_phone {
+    background: #104FAC;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+    border-radius: 10px 0px;
+    height: 60.7860107421875px;
+    width: 151.8560028076172px;
+    color: #FFFFFF;
+
+    text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+
+}
+.describtion_app {
+    margin: 40px 0px 0px 31px;
+}
+.the_download {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+}
+.the_download_subs {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #104FAC;
+    width: 1000px;
+}
+.secound_subs {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #104FAC;    
+}
+.next_game {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+    margin: 100px 0px 0px 0px;
+
+}
+.theGameIcon {
+    background: #104FAC;
+    border-radius: 10px;
+    height: 392.4023132324219px;
+    width: 291.4522399902344px;
+}
+.best_sell {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+    margin: 150px 0px 0px 0px;
+}
+.announce_img {
+    height: 150.31454467773438px;
+    width: 254.46990966796875px;
+    border-radius: 5px;
+
+}
+.the_title_sec {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    width: 254.47px;
+
+    color: #104FAC;
+}
+.the_users_prices {
+    display: flex;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #104FAC;
+
+}
+.search_by {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #1E90FF;
+    margin: 100px 0px 0px 0px;
+}
+.sellers_recomm {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #1E90FF;
+    margin: 100px 0px 0px 0px;
+}
+.we_recomm {
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 20px;
+    height: 117.26335906982422px;
+    width: 337.5861511230469px;
+
+    border-radius: 20px;
+
+}
+.profile_img_recomm {
+    height: 85.19587707519531px;
+    width: 87.41681671142578px;
+    border-radius: 50%;
+    border: 1px solid  #104fac;
+    padding: 2px;
+    margin: 20px 0px 0px 20px;
+}
+.for_flex {
+    display: flex;
+}
+.details {
+    margin: 30px 0px 0px -200px;
+}
+.details p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 10px;
+
+    color: #104FAC;
+}
+.offers {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+
+}
+.arrow { 
+    margin: -50px 0px 0px 150px;
+    cursor: pointer;
+}
+.view_more {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #1E90FF;
+    border: 1px solid #1E90FF;
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 53.881370544433594px;
+    width: 298.9310302734375px;
+    border-radius: 20px;
+    background-color: transparent;
+}
+.for_viewmore {
+    margin: 20px 40px 0px 0px;
+}
+.title_gold {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+    color: #1E90FF;
+
+}
+.no_money {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+
+    color: #104FAC;
+}
+.secound_no {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 41px;
+
+    color: #104FAC;
+
+}
+.for_displl {
+    display: flex;
+}
+.sec_div p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    margin: 0px 0px 10px 20px;
+}
+.sec_div button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 39px;
+    /* identical to box height */
+
+    border: 1px solid #1E90FF;
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 62.33889389038086px;
+    width: 393.2090148925781px;
+    border-radius: 20px;
+    
+    color: #1E90FF;
+
+    background-color: transparent;
+    text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+}
+.sec_div {
+    margin: 0px 0px 0px 600px;
+}
+.color_foot {
+    border-top: 3px solid #104FAC;
+    background-color: white;
+}
+.for_foot h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+
+}
+.for_foot_two h5 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #1E90FF;
+}
+.the_lang{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #104FAC;
+}
+.the_list{
+    margin: 0px 0px 0px 135px;
+}
+.the_list li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+
+}
+@media (min-width: 1200px) {
+    .container{
+        max-width: 1700px;
+    }
+}

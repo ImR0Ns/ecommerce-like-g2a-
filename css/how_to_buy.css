@@ -1,0 +1,120 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.navBar {
+  position: absolute;
+  width: 29.45px;
+  height: 0px;
+  left: 36.69px;
+  top: 31.96px;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  width: 170px;
+  height: 59px;
+  left: 875px;
+  top: 14.96px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 59px;
+  /* identical to box height */
+
+  color: #1e90ff;
+}
+.lupaSearch {
+  position: absolute;
+  left: 1850px;
+  right: 2.57%;
+  top: 27.96px;
+  bottom: 94.18%;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+    cursor: pointer;
+}
+.baraHeader {
+  position: absolute;
+  width: 1920.01px;
+  height: 0px;
+  left: -10px;
+  top: 97.33px;
+
+  border: 2px solid #1e90ff;
+}
+.wirtingF {
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}
+.nowIsTime {
+position: absolute;
+width: 738px;
+height: 53px;
+left: 140.52px;
+top: 2337.82px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+text-align: right;
+
+color: #1E90FF;
+}
+.subTitleTime {
+position: absolute;
+width: 330px;
+height: 47px;
+left: 185.52px;
+top: 2390.82px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: right;
+
+color: rgba(30, 144, 255, 0.8);
+}
+.sellNowButtS {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+
+color: #1E90FF;
+position: absolute;
+width: 446.9px;
+height: 72.12px;
+left: 1263.59px;
+top: 2354.76px;
+
+background: #FFFFFF;
+border: 1.5px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.wirtingFTwo {
+  position: absolute;
+  top: 200px;
+  left: 100px;
+}

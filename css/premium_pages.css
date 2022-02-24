@@ -1,0 +1,1079 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.posR {
+    position: relative;
+    left: -390px;
+}
+.bgPremiumMainPage {
+    position: absolute;
+    width: 100%;
+    top: 500px;
+}
+.titlePremium {
+    position: absolute;
+    width: 285px;
+    height: 82px;
+    left: 817.5px;
+    top: 153.9px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+}
+.bgPromoteOffer {
+    position: absolute;
+    width: 326.98px;
+    height: 325.21px;
+    left: 190.55px;
+    top: 467.9px;
+    
+    background: #FFFFFF;
+    border: 2px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.promoteOfferImg {
+    position: absolute;
+    width: 145px;
+    height: 123px;
+    left: 98px;
+    top: 85px;
+}
+.titlePromoteOffer {
+    position: absolute;
+    width: 219px;
+    height: 41px;
+    top: 250px;
+    left: 65px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+}
+.threeFree {
+    position: absolute;
+    width: 108px;
+    height: 29px;
+    top: 10px;
+    left: 230px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    
+}
+.premiumExpires {
+    position: absolute;
+    width: 299px;
+    height: 41px;
+    left: 1407.96px;
+    top: 1083.33px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+}
+.inTimeExp {
+    position: absolute;
+    width: 162px;
+    height: 59px;
+    left: 1706.96px;
+    top: 1124.33px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+}
+.casePromote {
+position: absolute;
+left: 400px;
+}
+.caseStatics {
+position: absolute;
+left: 800px;
+}
+.caseQuests {
+position: absolute;
+left: 1200px;
+}
+.mainBgPromote {
+    position: absolute;
+    width: 100%;
+    top: 770px;
+}
+.backButtonPromote {
+    position: absolute;
+    width: 54px;
+    height: 29px;
+    left: 107.13px;
+    top: 48.43px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #0575E6;
+    
+}
+.titlePromoteOffers {
+    position: absolute;
+    height: 38.501007080078125px;
+    width: 308.54400634765625px;
+    left: 193.353515625px;
+    top: 267.16015625px;
+    border-radius: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #104fac;
+}
+.promoteOfferCaseBG {
+    position: absolute;
+    height: 187.21798706054688px;
+    width: 588.3989868164062px;
+    left: 189.740234375px;
+    top: 371.00537109375px;
+    border-radius: 10px;
+    border: none;
+    
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 10px;
+}
+.promoteOrdersCreateT {
+    position: absolute;
+    width: 322px;
+    height: 35px;
+    left: 390px;
+    top: 
+    440px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    
+}
+.promoteOrdersCaseO{
+    position: absolute;
+    top: 0px;
+    left: 500px;
+}
+.promoteOrdersCaseT {
+    position: absolute;
+    top: 800px;
+    left: 0px;
+}
+.titlePacks {
+    position: absolute;
+    width: 271px;
+    height: 47px;
+    left: 824.5px;
+    top: 58.45px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #4568DC;
+}
+.promoteCaseBG {
+    position: absolute;
+    width: 1396.08px;
+    height: 86.47px;
+    left: 261.96px;
+    top: 282.69px;
+    
+    background: #FFFFFF;
+    border: 2px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.promotePackCaseT {
+    position: absolute;
+    width: 288px;
+    height: 35px;
+    left: 295.03px;
+    top: 308.43px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #4568DC;
+    
+}
+.promotePackCaseTP {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    left: 1078px;
+    top: 308.43px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #4568DC;
+}
+.buyNowPack {
+    position: absolute;
+    width: 318.58px;
+    height: 86.55px;
+    left: 1339.46px;
+    top: 282.61px;
+    
+    background: linear-gradient(216.42deg, #4568DC -109.74%, #B06AB3 194.12%);
+    border-radius: 8px;
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+    border: none;
+}
+.signAlert {
+    position: absolute;
+    width: 96px;
+    height: 80px;
+    left: 130px;
+    top: 982px;
+}
+.allPricesPacks {
+    position: absolute;
+    width: 537px;
+    height: 41px;
+    left: 252.06px;
+    top: 982px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.premiumSubTPacks {
+    position: absolute;
+    width: 1016.82px;
+    height: 37.86px;
+    left: 252.06px;
+    top: 1034px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+.packsCaseTwo {
+    position: absolute;
+    left: 0px;
+    top: 150px;
+}
+.packsCaseThree {
+    position: absolute;
+    left: 0px;
+    top: 300px;
+}
+.titleStatistics {
+    position: absolute;
+    width: 169px;
+    height: 47px;
+    left: 875.5px;
+    top: 65.77px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #FF6A00;
+}
+.subTitleOver {
+    position: absolute;
+    width: 144px;
+    height: 41px;
+    left: 134.82px;
+    top: 217.14px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #FF6A00;
+    
+}
+.bgStatisticsSold {
+    position: absolute;
+    width: 549.65px;
+    height: 230.96px;
+    left: 134.82px;
+    top: 287.52px;
+    
+    background: #FFFFFF;
+    border: 2px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.bgStatisticsSoldT {
+    position: absolute;
+    width: 197px;
+    height: 29px;
+    left: 544.56px;
+    top: 484.17px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #FF6A00;
+}
+.profileVisit {
+position: absolute;
+left: 600px;
+}
+.messagesS {
+    position: absolute;
+    left: 1200px;
+}
+.soBehS {
+    position: absolute;
+    left: 0px;
+    top: 300px;
+}
+.offersStatics {
+    position: absolute;
+    width: 98px;
+    height: 41px;
+    left: 134.82px;
+    top: 862.11px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #EE0979;
+}
+.selectOffer {
+
+    position: absolute;
+    width: 128px;
+    height: 29px;
+    left: 232.82px;
+    top: 915.39px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.packsCaseUlt {
+    position: absolute;
+    top: 700px;
+}
+.soBehT {
+    position: absolute;
+    left: 0px;
+    top: 850px;
+}
+.titleQuests {
+    position: absolute;
+    width: 126px;
+    height: 47px;
+    left: 897px;
+    top: 56px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #4364F7;
+}
+.bgCaseQuests {
+    position: absolute;
+width: 1479.2px;
+height: 184px;
+left: 220.4px;
+top: 220.18px;
+
+background: #FFFFFF;
+border: 2px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.questsImgS {
+    position: absolute;
+    width: 107.17px;
+    height: 84.99px;
+    left: 268.41px;
+    top: 270.22px;
+    
+    background: #FFFFFF;
+    border: 3px solid #4364F7;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.questsBgT{
+    position: absolute;
+    width: 220px;
+    height: 41px;
+    left: 406.81px;
+    top: 270.22px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #4364F7;
+    
+}
+.questsBgST {
+    position: absolute;
+    width: 438px;
+    height: 29px;
+    left: 418.68px;
+    top: 318.72px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #B3B3B3;
+}
+.fivehundredGold {
+    position: absolute;
+    width: 136px;
+    height: 35px;
+    left: 1016.29px;
+    top: 298.22px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #4364F7;
+    
+}
+.progressBardQuest {
+    position: absolute;
+    width: 201px;
+    height: 41px;
+    left: 1380.21px;
+    top: 260.91px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #4364F7;
+    
+}
+.barQuestsS {
+    position: absolute;
+    width: 337.61px;
+    height: 42.09px;
+    left: 1311.91px;
+    top: 312.18px;
+    
+    background: #FFFFFF;
+    border: 2px solid #4364F7;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.howMuchSuta {
+    position: absolute;
+    width: 38px;
+    height: 23px;
+    left: 1611.52px;
+    top: 357.14px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #4364F7;
+    
+}
+.questssT {
+    position: absolute;
+    left: 0px;
+    top: 250px;
+}
+.questssTh {
+    position: absolute;
+    left: 0px;
+    top: 500px;
+}
+.alertqUESTs {
+    position: absolute;
+width: 415px;
+height: 41px;
+left: 220.4px;
+top: 1113.6px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.ALERTqUESTST {
+    position: absolute;
+    width: 1218px;
+    height: 35px;
+    left: 251.12px;
+    top: 1155.73px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #FFFFFF;
+}
+.questsAlertSing {
+    position: absolute;
+    top: 1120px;
+    left: 120px;
+}
+.ultmmmssss {
+    position: absolute;
+    left: 0px;
+    top: 300px;
+}
+.whereFreeIs {
+    color: #1E90FF;
+    position: absolute;
+    left: 670px;
+    top: 
+    387.99px;
+    font-size: 25px;
+}
+.statisticsTwos {
+    position: absolute;
+    left: 
+    286.24px;
+    right: 76.29%;
+    top:
+    161.62px;
+    bottom: 90.8%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #104FAC;
+}
+.bginfoRR {
+    position: absolute;
+    left: 
+    286.24px;
+    right: 71.24%;
+    top: 
+    241.36px;
+    bottom: 76.45%;
+    
+    width: 265.94px;
+    height: 
+    292.74px;
+
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+    border-radius: 10px;
+}
+.imgInfoRR {
+    position: absolute;
+    left: 
+    511.69px;
+    right: 72.18%;
+    top: 
+    257.08px;
+    bottom: 87.74%;
+}
+.numberInfoRR {
+    position: absolute;
+    left: 350.71px;
+    right: 74.6%;
+    top: 
+    340.73px;
+    bottom: 80.83%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 94px;
+    /* identical to box height */
+    
+    
+    color: #104fac;
+    
+}
+.titleInfoRR {
+    position: absolute;
+    left: 
+    415.89px;
+    right: 71.72%;
+    top: 
+    497.33px;
+    bottom: 76.79%;
+    width: 150px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104fac;
+}
+.offersChestieAici {
+    position: absolute;
+    left: 
+    286.1px;
+    right: 79.27%;
+    top: 908.24px;
+    bottom: 57.88%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #104FAC;
+}
+.bgOffersTwoCc {
+    position: absolute;
+    left: 286.1px;
+    right: 20.4%;
+    top: 
+    984.83px;
+    bottom: 53.1%;
+    width: 1242.2px;
+    height: 78.78px;
+    
+    background: #FFFFFF;
+    border: 1px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+    border-radius: 10px;
+}
+.OffersTwoCc {
+    position: absolute;
+    left: 
+    316.09px;
+    right: 56.09%;
+    top: 
+    1009.72px;
+    bottom: 54.2%;
+    width: 
+    527px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    
+}
+.selectOffersTwoC {
+    position: absolute;
+    left: 
+    1397.37px;
+    right: 22.85%;
+    top: 1006.72px;
+    bottom: 54.07%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    border: none;
+    background-color: transparent;
+}
+.yourMostSucessfull {
+    position: absolute;
+left: 
+286.1px;
+right: 58.28%;
+top: 
+1461.74px;
+bottom: 33.48%;
+width:  
+515px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}
+.numberOfTop {
+    position: absolute;
+    left: 7.01%;
+    right: 89.92%;
+    top: 
+    1618.36px;
+    bottom: 26.04%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+    
+}
+.imgDivAnn {
+    position: absolute;
+    left: 286.6px;
+    right: 71.16%;
+    top: 
+    1574.82px;
+    bottom: 24.12%;
+
+    width: 267.1px;
+    height: 146.07px;
+
+    background: #104FAC;
+    border-radius: 10px;
+}
+.titleAnnounceSuccess {
+    position: absolute;
+    left: 
+    573.85px;
+    right: 36.22%;
+    top: 
+    1574.82px;
+    bottom: 29.02%;
+    width: 
+    650.65px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.subTitleAnnounceSucces {
+    position: absolute;
+    left: 
+    573.85px;
+    right: 31.59%;
+    top: 
+    1615.86px;
+    bottom: 27.17%;
+    width: 
+    739.65px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #104FAC;
+    
+}
+.priceAnnounceTitleSucces {
+
+    position: absolute;
+    left: 
+    1459.6px;
+    right: 20.39%;
+    top: 1574.82px;
+    bottom: 29.02%;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #1E90FF;
+    
+}
+.soldOffersss {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    position: absolute;
+    left: 
+    576.12px;
+    right: 59.62%;
+    top: 
+    1674.91px;
+    bottom: 13.72%;
+    border-radius: 
+    5px;
+    padding: 6px 0px 0px 60px;
+
+    width: 199.73px;
+    height: 
+    45.98px;
+    border: 1px solid #104FAC;
+}
+.clicksOnOffers {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    position: absolute;
+    left: 
+    
+799.31px;
+    right: 59.62%;
+    top: 
+    1674.91px;
+    bottom: 13.72%;
+    border-radius: 
+    5px;
+    padding: 6px 0px 0px 50px;
+
+    width: 199.73px;
+    height: 
+    45.98px;
+    border: 1px solid #104FAC;
+}
+.interewstAnnounce {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    position: absolute;
+    left: 
+    
+
+    1022.51px;
+    right: 59.62%;
+    top: 
+    1674.91px;
+    bottom: 13.72%;
+    border-radius: 
+    5px;
+    padding: 6px 0px 0px 40px;
+
+    width: 199.73px;
+    height: 
+    45.98px;
+    border: 1px solid #104FAC;
+}
+.oLinieSiCeva {
+    position: absolute;
+left: 
+286.6px;
+right: 20.39%;
+top: 
+1766.06px;
+bottom: 22.13%;
+width: 
+1241.99px;
+
+
+border: 2px solid #F1F1F1;
+}
+.inAltaParte {
+    position: absolute;
+    left: 
+800px;
+}
+.inAltaParte2 {
+    position: absolute;
+    left: 
+0px;
+top: 250px;
+}
+.inAltaParte3 {
+    position: absolute;
+    left: 
+800px;
+top: 250px;
+}
+.navBar {
+    position: absolute;
+    width: 29.45px;
+    height: 0px;
+    left: 36.69px;
+    top: 31.96px;
+    color: #104fac;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  .title {
+    position: absolute;
+    width: 170px;
+    height: 59px;
+    left: 875px;
+    top: 14.96px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+  
+    color: #104fac;
+  }
+  .lupaSearch {
+    position: absolute;
+    left: 1850px;
+    right: 2.57%;
+    top: 27.96px;
+    bottom: 94.18%;
+    color: #104fac;
+    border: none;
+    background-color: transparent;
+      cursor: pointer;
+  }
+  .baraHeader {
+    position: absolute;
+    width: 1910px;
+    height: 0px;
+    left: 0px;
+    top: 97.33px;
+  
+    border: 1px solid #104fac;
+  }

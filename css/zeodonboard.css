@@ -1,0 +1,702 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  .posR {
+    position: relative;
+    left: -390px;
+  }
+  input:focus{
+    outline: none;
+  }
+  button:focus{
+    outline: none;
+  }s
+  select:focus {
+    outline: none;
+  }
+  .navBar {
+    position: absolute;
+    width: 29.45px;
+    height: 0px;
+    left: 36.69px;
+    top: 31.96px;
+    color: #104fac;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  .title {
+    position: absolute;
+    width: 170px;
+    height: 59px;
+    left: 875px;
+    top: 14.96px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+  
+    color: #104fac;
+  }
+  .lupaSearch {
+    position: absolute;
+    left: 1850px;
+    right: 2.57%;
+    top: 27.96px;
+    bottom: 94.18%;
+    color: #104fac;
+    border: none;
+    background-color: transparent;
+      cursor: pointer;
+  }
+  .baraHeader {
+    position: absolute;
+    width: 1910px;
+    height: 0px;
+    left: 0px;
+    top: 97.33px;
+  
+    border: 1px solid #104fac;
+  }
+  .zeodonBoard {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 59px;
+    /* identical to box height */
+  
+    color: #104fac;
+    position: absolute;
+    height: 30.389999389648438px;
+width: 244.63104248046875px;
+left: 819.172119140625px;
+top: 176.95648193359375px;
+border-radius: 0px;
+
+  }
+  .purchaseO {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 329.27px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    
+  }
+  .soldO {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 564px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+  }
+  .activeO {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 743px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+  }
+  .boostingo {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 941px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+  }
+.reservedm {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 1170px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+}
+.yourem {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 1399px;
+    top: 269.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+}
+.sortBy {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    position: absolute;
+width: 308.3px;
+height: 61.69px;
+left: 1338.59px;
+top: 384.18px;
+
+background: #FFFFFF;
+border: 0.8px solid #104FAC;
+box-sizing: border-box;
+border-radius: 3px;
+}
+.numarul {
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    left: 273.11px;
+    top: 458.36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    
+}
+.pozaAia {
+    position: absolute;
+    width: 388.79px;
+    height: 178.13px;
+    left: 273.11px;
+    top: 487.36px;
+    
+    background: #104FAC;
+    border-radius: 10px;
+}
+.pozaProfile {
+    position: absolute;
+    width: 31.11px;
+    height: 31.67px;
+    left: 273.11px;
+    top: 674.65px;
+    border-radius: 50%;
+    background: #104FAC;
+}
+.numeUser {
+    position: absolute;
+    width: 73px;
+    height: 35px;
+    left: 312.23px;
+    top: 672.99px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.titluAnunt {
+    position: absolute;
+    width: 517px;
+    height: 35px;
+    left: 686.95px;
+    top: 487.36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+}
+.descriereAnunt {
+    position: absolute;
+    width: 736.79px;
+    height: 69px;
+    left: 686.95px;
+    top: 535.42px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #104FAC;
+}
+.data {
+    position: absolute;
+    width: 197px;
+    height: 29px;
+    left: 689.23px;
+    top: 678.99px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+}
+.order {
+    position: absolute;
+    width: 181px;
+    height: 29px;
+    left: 927.78px;
+    top: 678.99px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+}
+.status {
+    position: absolute;
+    width: 214px;
+    height: 29px;
+    left: 1150.32px;
+    top: 678.99px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+}
+.price {
+    position: absolute;
+    width: 69px;
+    height: 35px;
+    left: 1577.89px;
+    top: 487.36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #1E90FF
+}
+.details {
+    position: absolute;
+    width: 76px;
+    height: 29px;
+    left: 1548.93px;
+    top: 678.99px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    
+}
+.moneyReserv {
+  position: absolute;
+  width: 270px;
+  height: 70px;
+  left: 399.15px;
+  top: 407.02px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 70px;
+  
+  color: #1E90FF;
+  
+    
+}
+.borderforthis {
+  position: absolute;
+  width: 409.76px;
+  height: 156.16px;
+  left: 329.27px;
+  top: 363.94px;
+  
+  border: 2px solid #104FAC;
+  box-sizing: border-box;
+  border-radius: 20px;
+}
+.moneyRe {
+    position: absolute;
+    width: 382px;
+    height: 47px;
+    left: 329.27px;
+    top: 652.68px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    
+}
+.numarulAla {
+    position: absolute;
+    width: 30px;
+    height: 29px;
+    left: 329.27px;
+    top: 765.33px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    
+}
+.imgAia {
+    position: absolute;
+    width: 388.79px;
+    height: 178.13px;
+    left: 329.27px;
+    top: 797.94px;
+    
+    background: #104FAC;
+    border-radius: 2px;
+}
+.reasonFor {
+    position: absolute;
+    width: 409px;
+    height: 35px;
+    left: 329.27px;
+    top: 1019.93px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.reservedUntil {
+    position: absolute;
+    width: 400px;
+    height: 35px;
+    left: 1284.73px;
+    top: 1019.93px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+}
+.priceAsta {
+    position: absolute;
+    width: 69px;
+    height: 47px;
+    left: 1618px;
+    top: 794.33px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+    
+}
+.oDescriere {
+  position: absolute;
+width: 603px;
+height: 140px;
+left: 753.9px;
+top: 797.94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #104FAC;
+
+}
+.oDescriere2 {
+  position: absolute;
+width: 603px;
+height: 140px;
+left: 753.9px;
+top: 830px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #104FAC;
+
+}
+.oDescriere3 {
+  position: absolute;
+width: 603px;
+height: 140px;
+left: 753.9px;
+top: 870px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #104FAC;
+
+}
+.oDescriere4 {
+  position: absolute;
+width: 603px;
+height: 140px;
+left: 753.9px;
+top: 910px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #104FAC;
+
+}
+.activeEmpl {
+  position: absolute;
+  left: 18.09%;
+  right: 69.52%;
+  top: 21.94%;
+  bottom: 76.01%;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  height: 35px;
+width: 238px;
+left: 347.26904296875px;
+top: 373.775390625px;
+border-radius: undefinedpx;
+
+}
+.bgEmpl {
+position: absolute;
+height: 88.72176361083984px;
+width: 352.777587890625px;
+left: 347.26904296875px;
+top: 416.2057800292969px;
+border-radius: 10px;
+background: #104FAC;
+border-radius: 10px;
+}
+.emplNumber {
+position: absolute;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+height: 59px;
+width: 29px;
+left: 509.15771484375px;
+top: 431.066650390625px;
+border-radius: nullpx;
+
+}
+.emplBara {
+position: absolute;
+height: 170.2351531982422px;
+width: 180.7617950439453px;
+left: 345.51416015625px;
+top: 598.58154296875px;
+border-radius: 50%;
+border: 3px solid #104FAC;
+box-sizing: border-box;
+}
+.emplImg {
+  position: absolute;
+  height: 159.12757873535156px;
+width: 169.32456970214844px;
+left: 351.23291015625px;
+top: 604.1353149414062px;
+border-radius: 50%;
+
+}
+.userEmpName {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  position: absolute;
+  height: 47px;
+width: 258px;
+left: 664.65087890625px;
+top: 598.58154296875px;
+border-radius: nullpx;
+  
+}
+.onlinesauOff {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #1E90FF;
+position: absolute;
+height: 23px;
+width: 58px;
+left: 514.10400390625px;
+top: 598.58154296875px;
+border-radius: nullpx;
+
+}
+.buttDeMesaje {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #104FAC;
+position: absolute;
+height: 74.20325469970703px;
+width: 382.3355712890625px;
+left: 1249.90966796875px;
+top: 784.7041625976562px;
+border-radius: 5px;
+background: #FFFFFF;
+border: 1px solid #104FAC;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.currJob {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  height: 35px;
+width: 688px;
+left: 664.65087890625px;
+top: 666.1990966796875px;
+border-radius: nullpx;
+position: absolute;
+}
+.completeUntil {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  position: absolute;
+  height: 35px;
+width: 377px;
+left: 664.65087890625px;
+top: 704.8179321289062px;
+border-radius: nullpx;
+
+}
+.paymentSs {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  position: absolute;
+  height: 35px;
+width: 207px;
+left: 664.65087890625px;
+top: 743.4369506835938px;
+border-radius: nullpx;
+
+}

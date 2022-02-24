@@ -1,0 +1,1158 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.baraSPtCautare {
+    position: absolute;
+    width: 656.31px;
+    height: 45.47px;
+    left: 1229.83px;
+    top: 14.49px;
+    
+    background: #FFFFFF;
+    border: 1px solid rgba(30, 144, 255, 0.05);
+    box-sizing: border-box;
+    box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.25);
+    border-radius: 20px;
+  }
+  .ptSubmitCautare {
+    position: absolute;
+    color: #104fac;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    left: 1825px;
+    top: 20px;
+  }
+  .realSearchBarChestie {
+    position: absolute;
+    top: 5px;
+    display: none;
+  }
+  
+.posR {
+    position: relative;
+    left: -390px;
+  }
+  .navBar {
+    position: absolute;
+    width: 29.45px;
+    height: 0px;
+    left: 36.69px;
+    top: 31.96px;
+    color: #1e90ff;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+  }
+  .title {
+    position: absolute;
+    width: 170px;
+    height: 59px;
+    left: 875px;
+    top: 14.96px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+  
+    color: #1e90ff;
+  }
+  .lupaSearch {
+    position: absolute;
+    left: 1850px;
+    right: 2.57%;
+    top: 27.96px;
+    bottom: 94.18%;
+    color: #1e90ff;
+    border: none;
+    background-color: transparent;
+      cursor: pointer;
+  }
+  .baraHeader {
+    position: absolute;
+    width: 1920.01px;
+    height: 0px;
+    left: 0px;
+    top: 97.33px;
+  
+    border: 2px solid #1e90ff;
+  }
+.imgTop {
+    position: absolute;
+    left: 0px;
+    top: 100px;
+}
+.bgApp {
+    position: absolute;
+    width: 1679.7px;
+    height: 687.4px;
+    left: 135.61px;
+    top: 266.35px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.zeodonNews {
+    position: absolute;
+    width: 360px;
+    height: 70px;
+    left: 162.46px;
+    top: 301px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 70px;
+    
+    color: #1E90FF;
+    
+}
+.downloadRightNow {
+    position: absolute;
+    width: 574px;
+    height: 47px;
+    left: 229.44px;
+    top: 399.83px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.theApp {
+    position: absolute;
+    width: 1004.28px;
+    height: 140px;
+    left: 229.44px;
+    top: 486.36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #B3B3B3;
+    
+}
+.sellBuyAnd {
+    position: absolute;
+    width: 1004.28px;
+    height: 140px;
+    left: 229.44px;
+    top: 596.36px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #B3B3B3;
+    
+}
+.phoneImgApp {
+    position: absolute;
+    width: 306.61px;
+    height: 502.39px;
+    left: 1475.16px;
+    top: 298.17px;
+}
+.viewNow {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #1E90FF;
+    position: absolute;
+width: 288px;
+height: 69.15px;
+left: 1484.46px;
+top: 861.95px;
+
+background: #FFFFFF;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 6px;
+}
+.findTheNextGame {
+    position: absolute;
+    width: 589px;
+    height: 59px;
+    left: 680.96px;
+    top: 1049.04px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+    
+}
+.imgOne {
+    position: absolute;
+    width: 412.38px;
+    height: 548.09px;
+    left: 68.28px;
+    top: 1212.61px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.imgTwo {
+    position: absolute;
+    width: 412.38px;
+    height: 548.09px;
+    left: 528.56px;
+    top: 1212.61px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.imgThree {
+    position: absolute;
+    width: 412.38px;
+    height: 548.09px;
+    left: 988.84px;
+    top: 1212.61px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.imgFour {
+    position: absolute;
+    width: 412.38px;
+    height: 548.09px;
+    left: 1449.12px;
+    top: 1212.61px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.bestSellT {
+    position: absolute;
+    width: 192px;
+    height: 59px;
+    left: 898.46px;
+    top: 1865.28px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    color: #1E90FF;
+}
+.imgAnnounce {
+    position: absolute;
+    width: 386.97px;
+    height: 219.91px;
+    left: 129.47px;
+    top: 2110.81px;
+    
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+}
+.announceTitle {
+    position: absolute;
+    width: 364.39px;
+    height: 56px;
+    left: 140.76px;
+    top: 2337.64px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.descTitlteSub {
+    position: absolute;
+    width: 355.98px;
+    height: 104px;
+    left: 140.76px;
+    top: 2410.79px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #B3B3B3;
+    
+}
+.imgUserAnn {
+    position: absolute;
+    width: 36.13px;
+    height: 35.02px;
+    left: 140.76px;
+    top: 2587.65px;
+    
+    background: #C4C4C4;
+    border-radius: 50%;
+}
+.announceUserName {
+    position: absolute;
+    width: 65px;
+    height: 32px;
+    left: 183.58px;
+    top: 2592.72px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 27px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+    
+}
+.buyNowAnnounce {
+
+    position: absolute;
+    width: 237.9px;
+    height: 57.65px;
+    left: 278.67px;
+    top: 2579.23px;
+    
+    background: linear-gradient(129.93deg, #1E90FF -23.7%, #17E8F5 113.75%);
+    border-radius: 6px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    border: none;
+}
+.imgTBGG {
+    position: absolute;
+width: 386.87px;
+height: 525.03px;
+left: 129.57px;
+top: 2111.85px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.caseAnnouncesOne {
+    position: absolute;
+    left: 450px;
+}
+.caseAnnouncesTwo {
+    position: absolute;
+    left: 900px;
+}
+.caseAnnouncesThree {
+    position: absolute;
+    left: 1350px;
+}
+.anoutherFourAnnounces {
+    position: absolute;
+    left: 0px;
+    top: 600px;
+}
+.searchByCatgS {
+    position: absolute;
+width: 469px;
+height: 59px;
+left: 740.96px;
+top: 3472.82px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.searchAccounts {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #17E5F5;
+    position: absolute;
+    width: 516.7px;
+    height: 109.97px;
+    left: 108.61px;
+    top: 3646.54px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;    
+}
+.searchBoosting {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    position: absolute;
+width: 516.49px;
+height: 109.97px;
+left: 707.23px;
+top: 3646.54px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+    
+    color: #17E5F5;
+}
+.searchTopUp {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    position: absolute;
+width: 516.49px;
+height: 109.97px;
+left: 1305.65px;
+top: 3646.54px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+    color: #17E5F5;
+}
+.searchItems {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    position: absolute;
+width: 516.7px;
+height: 109.97px;
+left: 108.61px;
+top: 3831.71px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+    color: #17E5F5;
+}
+.searchCoaching {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    position: absolute;
+    width: 516.49px;
+    height: 109.97px;
+    left: 707.23px;
+    top: 3831.71px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    color: #17E5F5;
+}
+.searchCoin {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    position: absolute;
+width: 516.49px;
+height: 109.97px;
+left: 1305.65px;
+top: 3831.71px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+    
+    color: #17E5F5;
+}
+.searchSkins {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    position: absolute;
+    width: 516.7px;
+    height: 109.97px;
+    left: 412.02px;
+    top: 4016.88px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    color: #17E5F5;
+}
+.searchOther {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    position: absolute;
+width: 516.49px;
+height: 109.97px;
+left: 1002.39px;
+top: 4016.88px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
+    
+    color: #17E5F5;
+}
+.imgCenterSite {
+    position: absolute;
+    left: 800px;
+    top: 3672.03px;
+}
+.sellersWeRecomm {
+    position: absolute;
+    width: 511px;
+    height: 59px;
+    left: 719.96px;
+    top: 4318.6px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: white;
+}
+.bgSellerWeRec {
+    position: absolute;
+    width: 569.53px;
+    height: 759.51px;
+    left: 55.78px;
+    top: 4492.99px;
+    
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.lastOnlineDays {
+    position: absolute;
+    width: 250px;
+    height: 35px;
+    left: 73.23px;
+    top: 4507px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #B3B3B3;
+    
+}
+.onlineLastOnline {
+
+    position: absolute;
+    width: 86px;
+    height: 35px;
+    left: 520.16px;
+    top: 4507px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #1E90FF;}
+.imgSellersWeRecomm {
+    position: absolute;
+    width: 195.79px;
+    height: 200.31px;
+    left: 242.65px;
+    top: 4572.5px;
+    border-radius: 50%;
+    background: rgba(179, 179, 179, 0.7);
+}
+.nameUserBgSeller {
+    position: absolute;
+    width: 153px;
+    height: 35px;
+    left: 253.04px;
+    top: 4786.31px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: black;    
+}
+.completedOrdersBgUser {
+    position: absolute;
+    width: 142px;
+    height: 70px;
+    left: 82.27px;
+    top: 4851.23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+    
+}
+.completedOrdersBgUserT {
+    position: absolute;
+    width: 111px;
+    height: 70px;
+    left: 285.55px;
+    top: 4851.23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.completedOrdersBgUserTH {
+    position: absolute;
+    width: 105px;
+    height: 70px;
+    left: 470.32px;
+    top: 4851.23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.stepOneR {
+    position: absolute;
+    width: 397px;
+    height: 35px;
+    left: 100px;
+    top: 5031.21px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.stepOneTwoR {
+    position: absolute;
+    width: 514px;
+    height: 35px;
+    left: 60px;
+    top: 5108.93px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.stepOneThreeR {
+    position: absolute;
+    width: 461px;
+    height: 35px;
+    left: 60px;
+    top: 5190.65px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    
+    color: rgba(0, 0, 0, 0.7);
+}
+.casesBgSellerOne {
+    position: absolute;
+    left: 650px;
+}
+.casesBgSellerTwo {
+    position: absolute;
+    left: 1300px;
+}
+.zeodonGoldM {
+    position: absolute;
+    width: 372px;
+    height: 70px;
+    left: 66.44px;
+    top: 5438.61px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 70px;
+
+    color: #1e90ff;
+
+}
+.zeodonGoldSubTitleM {
+position: absolute;
+width: 583px;
+height: 47px;
+left: 159.95px;
+top: 5536.24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.zeodonGoldSubTitleSubM {
+    position: absolute;
+    width: 797px;
+    height: 47px;
+    left: 159.95px;
+    top: 5599.34px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: rgba(0, 0, 0, 0.7);
+    
+}
+.makeMoneyFreeS {
+    position: absolute;
+    width: 393px;
+    height: 47px;
+    left: 1369.76px;
+    top: 5460.11px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+}
+.startNowButtMine {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    position: absolute;
+    width: 578.58px;
+    height: 110.33px;
+    left: 1276.97px;
+    top: 5536.01px;
+    
+    background: linear-gradient(263.81deg, #FC00FF -260.65%, #17E8F5 117.93%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: none;
+}
+.offersPage {
+    position: absolute;
+width: 140px;
+height: 59px;
+left: 911.39px;
+top: 5811.71px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #728BF9;
+}
+.imgBottomPP {
+    position: absolute;
+    top: 5383.56px;
+    left: -10px;
+}
+.anoutherFourAnnouncesT {
+    position: absolute;
+    top: 4050px;
+    left: 0px;
+}
+.zeodonAppPP {
+    position: absolute;
+    width: 266px;
+    height: 59px;
+    left: 57.09px;
+    top: 6921.73px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.moveYourBusiness {
+    position: absolute;
+    width: 766px;
+    height: 59px;
+    left: 120.31px;
+    top: 7055.78px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.moveYourBusinessDownload {
+    position: absolute;
+    width: 1378.26px;
+    height: 82px;
+    left: 143.96px;
+    top: 7140.84px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    
+    color: #FFFFFF;
+    
+}
+.googlgePLayOrder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #1E90FF;
+    border: 1px solid #1e90ff;
+    position: absolute;
+    width: 440.25px;
+    height: 90.96px;
+    left: 980.35px;
+    top: 7222.84px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+}
+.AppleStoreOrder {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 41px;
+    color: #1E90FF;
+    position: absolute;
+    width: 440.25px;
+    height: 90.96px;
+    left: 1455.4px;
+    top: 7222.84px;
+    
+    background: #FFFFFF;
+    border-radius: 6px;
+border: 1px solid #1e90ff;
+}
+.forThisAffC {
+    position: absolute;
+width: 393.9px;
+height: 347.31px;
+left: 178.86px;
+top: 7593.15px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.imgForAffiliatesS {
+    position: absolute;
+    left: 130px;
+    top: 100px;
+}
+.titleForAffiliatesS {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #4AB3F7;
+    position: absolute;
+    top: 270px;
+    left: 130px;
+}
+.forThisAffCT {
+    position: absolute;
+width: 393.9px;
+height: 347.31px;
+left: 778.86px;
+top: 7593.15px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.forThisAffCTH {
+    position: absolute;
+width: 393.9px;
+height: 347.31px;
+left: 1378.86px;
+top: 7593.15px;
+
+background: #FFFFFF;
+border: 3px solid #F1F1F1;
+box-sizing: border-box;
+box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+}
+.goBackButtBott {
+position: absolute;
+width: 635.56px;
+height: 76.81px;
+left: 642.22px;
+top: 8048.52px;
+
+background: linear-gradient(264.09deg, #FC00FF -579.92%, #17E8F5 277.42%);
+border: 3px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.zeodonLanguageBottom {
+position: absolute;
+width: 170px;
+height: 59px;
+left: 93.86px;
+top: 8413.4px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.copyZeodonRights {
+position: absolute;
+width: 125px;
+height: 35px;
+left: 93.86px;
+top: 8891.71px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+}
+.legalAgg {
+position: absolute;
+left: 50%;
+right: 44.9%;
+top: 85.04%;
+bottom: 14.51%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #43BBF7;
+
+}
+.userAggAgg {
+position: absolute;
+left: 57.67%;
+right: 31.08%;
+top: 85.12%;
+bottom: 14.54%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #43BBF7;
+}
+.privacyPol {
+position: absolute;
+left: 71.49%;
+right: 18.87%;
+top: 85.12%;
+bottom: 14.54%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #43BBF7;
+
+}
+.copyRightPolicu {
+position: absolute;
+left: 83.69%;
+right: 5.06%;
+top: 85.12%;
+bottom: 14.54%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #43BBF7;
+}

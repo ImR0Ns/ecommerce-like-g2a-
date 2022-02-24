@@ -1,0 +1,303 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.navBar {
+  position: absolute;
+  width: 29.45px;
+  height: 0px;
+  left: 36.69px;
+  top: 31.96px;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  width: 170px;
+  height: 59px;
+  left: 875px;
+  top: 14.96px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 59px;
+  /* identical to box height */
+
+  color: #1e90ff;
+}
+.lupaSearch {
+  position: absolute;
+  left: 1850px;
+  right: 2.57%;
+  top: 27.96px;
+  bottom: 94.18%;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+    cursor: pointer;
+}
+.baraHeader {
+  position: absolute;
+  width: 1920.01px;
+  height: 0px;
+  left: 0px;
+  top: 97.33px;
+
+  border: 2px solid #1e90ff;
+}
+.cartT {
+position: absolute;
+width: 58px;
+height: 35px;
+left: 191px;
+top: 171px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+
+}
+.hereYouFind {
+position: absolute;
+width: 415px;
+height: 23px;
+left: 220px;
+top: 206px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #B3B3B3;
+
+}
+.productA {
+position: absolute;
+width: 91px;
+height: 23px;
+left: 191px;
+top: 273px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.sellerA {
+position: absolute;
+width: 69px;
+height: 23px;
+left: 701px;
+top: 273px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.quantityA {
+position: absolute;
+width: 96px;
+height: 23px;
+left: 888.19px;
+top: 273px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.priceA{
+position: absolute;
+width: 56px;
+height: 23px;
+left: 1101.37px;
+top: 273px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+
+}
+.linieUnu {
+position: absolute;
+width: 987.2px;
+height: 0px;
+left: 186.24px;
+top: 301.19px;
+
+border: 1px solid rgba(179, 179, 179, 0.4);
+}
+.accTitl {
+position: absolute;
+width: 450px;
+height: 29px;
+left: 191px;
+top: 354.32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.imgUser {
+position: absolute;
+width: 32px;
+height: 32px;
+left: 689px;
+top: 354.32px;
+
+background: rgba(0, 0, 0, 0.7);
+}
+.userName {
+position: absolute;
+width: 49px;
+height: 23px;
+left: 733px;
+top: 358.32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.quantity {
+position: absolute;
+width: 83.13px;
+height: 29px;
+left: 894.12px;
+top: 355.32px;
+
+background: #FFFFFF;
+border: 0.8px solid rgba(0, 0, 0, 0.7);
+box-sizing: border-box;
+border-radius: 1.5px;
+}
+.realPrice {
+position: absolute;
+width: 35px;
+height: 23px;
+left: 1112.37px;
+top: 358.32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #1E90FF;
+
+}
+.viewPhotos {
+
+position: absolute;
+width: 108px;
+height: 23px;
+left: 191px;
+top: 396.03px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+
+color: #1E90FF;
+}
+.aDouaLinie {
+
+position: absolute;
+width: 982.46px;
+height: 0px;
+left: 190.99px;
+top: 435.74px;
+
+border-top: 1.5px solid rgba(73, 80, 87, 0.5);
+}
+.totalPri {
+position: absolute;
+width: 62px;
+height: 29px;
+left: 1061.16px;
+top: 589.56px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+
+}
+.itemsFor {
+position: absolute;
+width: 106px;
+height: 23px;
+left: 1061.16px;
+top: 618.56px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #495057;
+
+}
+.checkOut {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #1E90FF;
+position: absolute;
+width: 215.68px;
+height: 47.34px;
+left: 1000.08px;
+top: 653.02px;
+
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 3px;
+background-color: transparent;
+}

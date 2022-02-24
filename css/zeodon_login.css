@@ -1,0 +1,379 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+input:focus {
+  outline: none;
+}
+button:focus {
+  outline: none;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.logIn {
+  position: absolute;
+  width: 111px;
+  height: 47px;
+  left: 1506.4px;
+  top: 177.67px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.email {
+  position: absolute;
+  width: 481.95px;
+  height: 84.71px;
+  left: 1327.92px;
+  top: 294.98px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 10px;
+  border: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  padding: 10px 0px 0px 15px;
+
+  color: #1E90FF;
+}
+.password {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 29px;
+
+color: #1E90FF;
+position: absolute;
+width: 481.95px;
+height: 84.71px;
+left: 1327.92px;
+top: 396.26px;
+padding: 10px 0px 0px 15px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 10px;
+border: none;
+}
+.logInButt {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+
+position: absolute;
+width: 213.23px;
+height: 55.08px;
+left: 1327.92px;
+top: 512.46px;
+
+background-color: transparent;
+border: 1.5px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 30px;
+}
+.userNameForPlace {
+  position: absolute;
+  width: 92px;
+  height: 23px;
+  left: 1341.78px;
+  top: 301.87px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #104FAC;
+}
+.passwordForPlace {
+  position: absolute;
+  width: 89px;
+  height: 23px;
+  left: 1341.78px;
+  top: 403.1px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #104FAC;
+}
+.forgotPassword {
+  position: absolute;
+  width: 145px;
+  height: 21px;
+  left: 1665.66px;
+  top: 512.46px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+  color: rgba(179, 179, 179, 0.6);
+}
+.connUsingCC {
+  position: absolute;
+  width: 160px;
+  height: 29px;
+  left: 1327.92px;
+  top: 610px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+
+  color: rgba(179, 179, 179, 0.6);
+
+}
+.newMemberChestie {
+  position: absolute;
+width: 251px;
+height: 29px;
+left: 1443.4px;
+top: 850px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104FAC;
+}
+.titleChestieN {
+  position: absolute;
+width: 153px;
+height: 53px;
+left: 123.44px;
+top: 66.3px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}
+.zeodonSubTitle {
+  position: absolute;
+  width: 119px;
+  height: 41px;
+  left: 123.44px;
+  top: 450px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.SubSubTitle {
+  position: absolute;
+  width: 389px;
+  height: 41px;
+  left: 123.44px;
+  top: 490px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+}
+.imgChestienN {
+  
+position: absolute;
+width: 847.69px;
+height: 656px;
+left: 283.61px;
+top: 300px;
+
+}
+.caseLogIn {
+  position: absolute;
+width: 3.27px;
+height: 965px;
+left: 1200.53px;
+top: 0px;
+
+background: rgba(16, 79, 172, 0.8);
+}
+.logoAici {
+  
+position: absolute;
+width: 58.79px;
+height: 58.73px;
+left: 47.67px;
+top: 63.44px;
+
+}
+.errors {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #104fac; 
+  position: absolute;
+  width: 300px;
+  height: 47px;
+  left: 1450px;
+  top: 230px;
+}
+.bgForFB {
+
+  position: absolute;
+  width: 394.11px;
+  height: 43.3px;
+  left: 1327.92px;
+  top: 652.4px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.2);
+  border-radius: 7px;
+
+}
+.fbT {
+
+  position: absolute;
+  height: 17.997169494628906px;
+  width: 9.335999488830566px;
+  left: 1342.529296875px;
+  top: 665.0540771484375px;
+  border-radius: 0px;
+  color: #104fac;
+
+}
+.fbTT {
+  position: absolute;
+  width: 171px;
+  height: 19px;
+  left: 1371.66px;
+  top: 664.55px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #104fac;
+
+}
+.fbT2 {
+
+  position: absolute;
+  height: 17.997169494628906px;
+  width: 9.335999488830566px;
+  left: 1342.529296875px;
+  top: 665.0540771484375px;
+  border-radius: 0px;
+  color: #104fac;
+
+}
+.fbTT2 {
+  position: absolute;
+  width: 171px;
+  height: 19px;
+  left: 1371.66px;
+  top: 664.55px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #104fac;
+
+}
+.fbT3 {
+
+  position: absolute;
+  height: 17.997169494628906px;
+  width: 9.335999488830566px;
+  left: 1342.529296875px;
+  top: 665.0540771484375px;
+  border-radius: 0px;
+  color: #104fac;
+
+}
+.fbTT3 {
+  position: absolute;
+  width: 171px;
+  height: 19px;
+  left: 1371.66px;
+  top: 664.55px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  /* identical to box height */
+
+
+  color: #104fac;
+
+}
+.fbST {
+  cursor: pointer;
+}
+.fbSTS {
+  cursor: pointer;
+  position: absolute;
+  top: 60px;
+  left: 0px;
+}
+.fbSTU {
+  cursor: pointer;
+  position: absolute;
+  top: 120px;
+  left: 0px;
+}

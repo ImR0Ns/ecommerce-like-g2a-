@@ -1,0 +1,630 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+input:focus {
+    outline: none;
+}
+button:focus {
+    outline: none;
+}
+.main { 
+    display: block; 
+    position: relative; 
+    padding-left: 45px; 
+    margin-bottom: 15px; 
+    cursor: pointer; 
+    font-size: 20px; 
+} 
+
+input[type=checkbox] { 
+    visibility: hidden; 
+} 
+.geekmark { 
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    height: 25px; 
+    width: 25px; 
+    background-color: white; 
+    border: 1px solid #104fac;
+    border-radius: 5px;
+} 
+.main input:checked ~ .geekmark { 
+    background-color: #104fac; 
+} 
+.geekmark:after { 
+    content: ""; 
+    position: absolute; 
+    display: none; 
+} 
+.main input:checked ~ .geekmark:after { 
+    display: block; 
+} 
+
+.main .geekmark:after { 
+    left: 8px; 
+    bottom: 5px; 
+    width: 6px; 
+    height: 12px; 
+    border: solid white; 
+    border-width: 0 4px 4px 0; 
+    -webkit-transform: rotate(45deg); 
+    -ms-transform: rotate(45deg); 
+    transform: rotate(45deg); 
+} 
+.str {
+    display: flex;
+}
+.title {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+
+
+    color: #104FAC;
+    margin: 55px 0px 0px 20px;
+
+}
+.logo {
+    width: 58.79px;
+    height: 58.73px;
+    margin: 50px 0px 0px 20px;
+}
+.subTitle {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    margin: 50px 0px 0px 0px;
+}
+.subSub {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #1E90FF;
+    margin: 10px 0px 0px 0px;
+}
+.userName {
+
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 10px;
+    height: 73.91915893554688px;
+    width: 481.9450378417969px;
+    border-radius: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #1e90ff;
+    padding: 15px 0px 0px 17px;
+    
+}
+.forUsername {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #104FAC;
+    position: relative;
+    top: 45px;
+    left: -180px;
+}
+.iAcc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #104FAC;
+    margin: 25px 0px 0px 10px;
+
+}
+.forCc {
+    margin: 0px 0px -10px -200px;
+}
+.singupbutt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #1E90FF;
+    border: 1px solid #1E90FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding: 7px 100px 7px 100px;
+    margin: 0px 0px 0px -200px;
+}
+.orSingUp {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: rgba(179, 179, 179, 0.5);
+    margin: 40px 0px 0px -345px;
+}
+.singFB {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.2);
+    border-radius: 7px;
+    height: 41.099884033203125px;
+    width: 357.4013671875px;
+    border-radius: 7px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    margin-left: -140px;
+}
+.singFB i{
+    margin: 0px 21px 0px 10px;
+}
+.singGOO {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.2);
+    border-radius: 7px;
+    height: 41.099884033203125px;
+    width: 357.4013671875px;
+    border-radius: 7px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    margin-left: -140px;
+}
+.singGOO i{
+    margin: 0px 17px 0px 10px;
+}
+.singSte {
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.2);
+    border-radius: 7px;
+    height: 41.099884033203125px;
+    width: 357.4013671875px;
+    border-radius: 7px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    margin-left: -140px;
+}
+.singSte i{
+    margin: 0px 17px 0px 10px;
+}
+.buyss {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: rgba(179, 179, 179, 0.85);
+    transition: 0.5s;
+}
+.buysss {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: rgba(179, 179, 179, 0.85);
+    height: 76px;
+    width: 205.89698791503906px;
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.buyss1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: rgba(179, 179, 179, 0.85);
+    transition: 0.5s;
+}
+.buyss12 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: rgba(179, 179, 179, 0.85);
+    transition: 0.5s;
+}
+.buysss2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: rgba(179, 179, 179, 0.85);
+    height: 76px;
+    width: 205.89698791503906px;
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.buysss22 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: rgba(179, 179, 179, 0.85);
+    height: 76px;
+    width: 205.89698791503906px;
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.buyss3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: rgba(179, 179, 179, 0.85);
+    transition: 0.5s;
+}
+.buysss3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    
+    color: rgba(179, 179, 179, 0.85);
+    height: 76px;
+    width: 205.89698791503906px;
+    margin: 0 auto;
+    transition: 0.5s;
+}
+.sellers {
+    border: 0.7px solid rgba(179, 179, 179, 0.85);
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 378.6243896484375px;
+    width: 220.63267517089844px;
+    border-radius: 20px;
+    margin: 80px 50px 0px 310px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.sellers2 {
+    border: 0.7px solid rgba(179, 179, 179, 0.85);
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 378.6243896484375px;
+    width: 220.63267517089844px;
+    border-radius: 20px;
+    margin: 80px 50px 0px 310px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.buyer {
+    border: 0.7px solid rgba(179, 179, 179, 0.85);
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 378.6243896484375px;
+    width: 220.63267517089844px;
+    border-radius: 20px;
+    margin: 80px 0px 0px 0px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.buyer2 {
+    border: 0.7px solid rgba(179, 179, 179, 0.85);
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 378.6243896484375px;
+    width: 220.63267517089844px;
+    border-radius: 20px;
+    margin: 80px 0px 0px 0px;
+    cursor: pointer;
+    transition: 0.5s;
+    display: none;
+}
+.imgAiaBlana {
+    margin: 60px 0px 20px 0px;
+}
+.imgAiaBlana2 {
+    margin: 60px 0px 20px 0px;
+}
+.imgAiaBlana3 {
+    margin: 60px 0px 20px 0px;
+}
+.imgAiaBlana25 {
+    margin: 60px 0px 20px 0px;
+}
+.tils {
+    margin: 20px 0px 0px 320px;
+    display: none;
+}
+.titlsSelc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+    transition: 0.5s;
+}
+.titlsWorr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    margin: -15px 0px 50px 0px;
+    color: #104FAC;
+    transition: 0.5s;
+}
+.continueButt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #1E90FF;
+
+    border: 1px solid #1E90FF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding: 7px 80px 7px 80px;    
+    margin: 0px 0px 0px 0px;
+}
+.contTo {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #104FAC;
+    margin: 20px 0px 0px 1400px;
+}
+.profImg {
+    border: 3px solid #1E90FF;
+    border-radius: 50%;
+    box-sizing: border-box;
+    height: 185.7412872314453px;
+    width: 185.23728942871094px;
+    border-radius: 50%;
+    padding: 3px;
+    margin: 50px 0px 0px 0px;
+}
+.nameUse {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    margin: 30px 0px 0px 0px;
+}
+.detailss {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #1E90FF;
+    margin: 60px 0px 0px 0px;
+}
+.miss {
+    margin: -25px 0px 0px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+
+    color: #104FAC;
+}
+.realFN {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    /* identical to box height */
+
+
+    color: #104FAC;
+    margin: 40px 0px 0px 0px;
+}
+.realFNI {
+    border: 0.8px solid #104FAC;
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 46.39091491699219px;
+    width: 300.46356201171875px;
+    border-radius: 10px;
+    margin: 10px 0px 0px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    text-align: center;
+
+    color: #104FAC;
+
+}
+.idVer {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #1E90FF;
+    margin: 60px 0px 0px 0px;
+}
+.ppl {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+
+    color: #104FAC;
+    margin: 5px 0px 0px 0px;
+}
+.ifReady {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    margin: 50px 0px 0px 0px;
+}
+.contButt {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #1E90FF;
+
+    border: 1px solid #1E90FF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: transparent;
+    height: 45.96733093261719px;
+    width: 221.537841796875px;
+    border-radius: 10px;
+    margin: 30px 0px 50px 0px;
+}
+.uploadID {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    margin: 0px 160px 0px 0px;
+}
+.optionalThing {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    
+}
+
+.forTermss {
+    margin-left: -130px;
+    width: 500px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    padding-top: 3px;
+    color: #104FAC;
+
+}
+.eye {
+    color: #104fac;
+    cursor: pointer;
+}
+.secound_chh {
+    display: none;
+}
+.last_scs {
+    display: none;
+}
+.button_chestie {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #104FAC;
+    margin: 0px 80px 0px 0px;
+}
+.butonuAla {
+    margin-top: -50px;
+    display: none;
+}

@@ -1,0 +1,673 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.profileImg {
+
+position: absolute;
+width: 157px;
+height: 146px;
+left: 881.48px;
+top: 211px;
+border-radius: 50%;
+
+}
+.namePage {
+position: absolute;
+width: 157px;
+height: 146px;
+left: 915.48px;
+top: 381px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+color: #1E90FF;
+}
+.messageS img{
+position: absolute;
+left: 845.48px;
+top: 436px;
+
+background: #FFFFFF;
+border: 0.7px solid #104FAC;
+padding: 5px 10px 5px 10px;
+}
+.messageST img{
+position: absolute;
+left: 925.48px;
+top: 436px;
+
+background: #FFFFFF;
+border: 0.7px solid #104FAC;
+padding: 5px 10px 1px 10px;
+}
+.messageSTH img{
+position: absolute;
+left: 1010.48px;
+top: 436px;
+
+background: #FFFFFF;
+border: 0.7px solid #104FAC;
+padding: 5px 10px 4px 10px;
+}
+.aboutYou {
+position: absolute;
+width: 95px;
+height: 41px;
+left: 388.74px;
+top: 574.74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1e90ff;
+
+}
+.description {
+position: absolute;
+width: 1226.29px;
+height: 116px;
+left: 388.74px;
+top: 636.74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(16, 79, 172, 0.7);
+
+}
+.detailsS {
+position: absolute;
+width: 109px;
+height: 41px;
+left: 388.74px;
+top: 821.98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.ordersS {
+position: absolute;
+width: 106px;
+height: 41px;
+left: 801.3px;
+top: 821.98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.reviewsS {
+position: absolute;
+width: 130px;
+height: 41px;
+left: 1210.87px;
+top: 821.98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.borderDet{
+position: absolute;
+width: 279.53px;
+height: 51.57px;
+left: 443.24px;
+top: 881.63px;
+
+background: #FFFFFF;
+border: 1px solid #104FAC;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.fromS {
+position: absolute;
+width: 58px;
+height: 29px;
+left: 458.21px;
+top: 892.79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+}
+.detSsS {
+position: absolute;
+width: 48px;
+height: 29px;
+left: 650.32px;
+top: 892.79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+
+}
+.borderDett {
+position: absolute;
+width: 279.53px;
+height: 51.57px;
+left: 854.3px;
+top: 881.63px;
+
+background: #FFFFFF;
+border: 1px solid #104FAC;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.fromST {
+position: absolute;
+width: 122px;
+height: 29px;
+left: 867.42px;
+top: 892.79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+
+}
+.detSsST {
+position: absolute;
+width: 29px;
+height: 29px;
+left: 1083.89px;
+top: 892.79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+}
+.borderDettH {
+position: absolute;
+width: 279.53px;
+height: 51.57px;
+left: 1275.87px;
+top: 881.5px;
+
+background: #FFFFFF;
+border: 1px solid #104FAC;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.fromSTH {
+position: absolute;
+width: 89px;
+height: 29px;
+left: 1290.36px;
+top: 892.91px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+
+}
+.detSsSTH {
+position: absolute;
+width: 47px;
+height: 29px;
+left: 1491.23px;
+top: 892.79px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+
+}
+.achievMents {
+position: absolute;
+width: 223px;
+height: 41px;
+left: 388.74px;
+top: 1029.45px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1e90ff;
+}
+.viewmoreAchiev {
+position: absolute;
+width: 115px;
+height: 29px;
+left: 1440.43px;
+top: 1038.45px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #1e90ff;
+}
+.borderAchievm {
+position: absolute;
+width: 911.09px;
+height: 68.75px;
+left: 529.34px;
+top: 1100.26px;
+
+background: #FFFFFF;
+border: 1px solid #104FAC;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.achivMm {
+position: absolute;
+width: 189.35px;
+height: 29px;
+left: 557.65px;
+top: 1120.14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104FAC;
+}
+.achievMmTwo {
+position: absolute;
+width: 280.33px;
+height: 29px;
+left: 1135.84px;
+top: 1122px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104FAC;
+}
+.myShopProf {
+position: absolute;
+width: 308.87px;
+height: 58px;
+left: 457.3px;
+top: 1637.63px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+}
+.imgShopProf {
+position: absolute;
+width: 308.87px;
+height: 267.17px;
+left: 457.3px;
+top: 1359.05px;
+
+background: rgba(0, 0, 0, 0.9);
+border-radius: 5px;
+}
+.myShopProfTwo {
+position: absolute;
+width: 137px;
+height: 41px;
+left: 388.74px;
+top: 1274.5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #104fac;
+
+}
+.namePreof {
+position: absolute;
+width: 60px;
+height: 29px;
+left: 457.3px;
+top: 1717.78px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+}
+.priceOfProf {
+position: absolute;
+width: 49px;
+height: 29px;
+left: 717.17px;
+top: 1717.78px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+}
+.commRatings {
+position: absolute;
+width: 298px;
+height: 41px;
+left: 388.74px;
+top: 1881.64px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color:#1e90ff;
+
+}
+.commRatingsInp {
+position: absolute;
+width: 721.86px;
+left: 750.94px;
+top: 1893.15px;
+border: none;
+background-color: transparent;
+border-bottom: 1px solid #104fac;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104fac;
+}
+.commRatingsInp::placeholder {
+  color: #104fac;
+}
+.sendbuttMess {
+  position: absolute;
+width: 30.45px;
+height: 29.88px;
+left: 1470px;
+top: 1895px;
+border: none;
+background-color: transparent;
+}
+
+.viewAcghhivments {
+  position: absolute;
+  left: 
+  327.52px;
+  right: 69.66%;
+  top: 
+  206.68px;
+  bottom: 84.22%;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.AchivMentF {
+  position: absolute;
+  left: 
+  349.1px;
+  right: 68.48%;
+  top: 300.9px;
+  bottom: 79.11%;
+  width: 
+  256px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #1E90FF;
+  
+}
+.subtitleForAward {
+  position: absolute;
+  left: 349.1px;
+  right: 58.95%;
+  top: 
+  340.68px;
+  bottom: 77.01%;
+  width: 439px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #104FAC;
+  
+}
+.AchieveOnCat {
+  position: absolute;
+  left: 
+  1415.49px;
+  right: 19.19%;
+  top: 
+  303.9px;
+  bottom: 79.3%;
+  width: 
+  136px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #104FAC;
+}
+.dateOn {
+  position: absolute;
+  left: 
+  1377.99px;
+  right: 17.24%;
+  top: 
+  340.68px;
+  bottom: 77.01%;
+  width: 211px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #1E90FF;
+  
+}
+.baraDeJosAiciChestie {
+  position: absolute;
+  left: 
+  349.1px;
+  right: 17.14%;
+  top: 
+  394.94px;
+  bottom: 75.44%;
+  width: 
+  1241.9px;
+
+  border: 0.2px solid #104FAC;
+}
+.viewMoreAici {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+
+width: 
+282.91px;
+height: 
+55.08px;
+
+position: absolute;
+left: 
+818.55px;
+right: 42.63%;
+top: 759.48px;
+bottom: 49.34%;
+
+background-color: transparent;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 20px;
+}
+.stillBlockedChestie {
+  position: absolute;
+left: 
+327.52px;
+right: 71.48%;
+top: 842.9px;
+bottom: 44.66%;
+width: 220px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.8);
+
+}
+.doi2 {
+  position: absolute;
+  left: 
+  349.1px;
+  right: 67.34%;
+  top: 
+  937.12px;
+  bottom: 39.54%;
+  width: 278px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: rgba(0, 0, 0, 0.8);
+}
+.trei3 {
+  position: absolute;
+  left: 349.1px;
+  right: 63.59%;
+  top: 
+  976.91px;
+  bottom: 37.44%;
+  width: 350px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: rgba(0, 0, 0, 0.6);
+}
+.stillBlockedC {
+  position: absolute;
+  left: 1415.49px;
+  right: 19.25%;
+  top: 957.62px;
+  bottom: 38.64%;
+  width: 350px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: rgba(0, 0, 0, 0.8);
+}

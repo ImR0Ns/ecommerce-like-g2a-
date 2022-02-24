@@ -1,0 +1,482 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  .posR {
+    position: relative;
+    left: -350px;
+  }
+
+.butonBack {
+    position: absolute;
+    width: 100px;
+    height: 29px;
+    left: 339.44px;
+    top: 168.51px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    
+    color: #104FAC;
+    border: none;
+    background-color: transparent;
+}
+.imgPtChestie {
+    position: absolute;
+    width: 834.1px;
+    height: 452.72px;
+    left: 315.32px;
+    top: 236.4px;
+    
+    background: #104FAC;
+    border-radius: 5px;
+}
+.bgDateProfil {
+    position: absolute;
+    width: 313.86px;
+    height: 272.82px;
+    left: 1232.59px;
+    top: 237.24px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 8px;
+}
+.imgProfileUser {
+    position: absolute;
+    width: 105.36px;
+    height: 100.72px;
+    left: 1336.84px;
+    top: 256.46px;
+    
+    background: url(131749.png);
+    border-radius: 100px;
+}
+.bulinaVerde {
+
+    position: absolute;
+    width: 16.54px;
+    height: 15.27px;
+    left: 1405.26px;
+    top: 343.15px;
+    
+    background: #20D051;
+    border-radius: 50%;
+}
+.numeleUser {
+    position: absolute;
+    width: 169px;
+    height: 23px;
+    left: 1305.02px;
+    top: 374.89px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #104FAC;
+    
+}
+.levelUser {
+    position: absolute;
+    width: 46.77px;
+    height: 16.55px;
+    left: 1366.14px;
+    top: 401.92px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    
+    color: #104FAC;
+}
+.descriereAici {
+    position: absolute;
+    width: 186.65px;
+    height: 16px;
+    left: 1296.2px;
+    top: 426.4px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    
+    color: #104FAC;
+    
+}
+.ptShop {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    position: absolute;
+    width: 126.28px;
+    height: 31.97px;
+    left: 1258.1px;
+    top: 458.87px;
+    
+    background: #FFFFFF;
+    border: 0.7px solid #104FAC;
+    box-sizing: border-box;
+    border-radius: 15px;    
+}
+.ptMesage {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    position: absolute;
+    width: 126.28px;
+    height: 31.97px;
+    left: 1394.67px;
+    top: 458.86px;
+    
+    background-color: transparent;
+    border: 0.7px solid #104FAC;
+    box-sizing: border-box;
+    border-radius: 15px;    
+}
+.otherDetailsBG {
+    position: absolute;
+    width: 313.86px;
+    height: 190.34px;
+    left: 1232.28px;
+    top: 522.86px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+    border-radius: 5px;
+}
+.otherChestieClara {
+    position: absolute;
+width: 150px;
+height: 19px;
+left: 1352.79px;
+top: 533.51px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}
+.platformAici {
+    position: absolute;
+    width: 150px;
+    height: 18px;
+    left: 1245.78px;
+    top: 571.14px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+}
+.siChestiaAilalta {
+    position: absolute;
+    width: 20px;
+    height: 18px;
+    left: 1470px;
+    top: 571.14px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+    
+}
+.liniePtOtherDet {
+    position: absolute;
+    width: 287.48px;
+    height: 0px;
+    left: 1245.78px;
+    top: 596.94px;
+    
+    border: 1px solid #F1F1F1;
+}
+.buyNowButt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #1E90FF;
+    position: absolute;
+width: 314.17px;
+height: 43.04px;
+left: 1232.28px;
+top: 731.71px;
+
+background: #FFFFFF;
+border: 0.7px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 10px;
+}
+.titleAnunt {
+    position: absolute;
+    width: 810.36px;
+    height: 78px;
+    left: 315.32px;
+    top: 718.73px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 33px;
+    line-height: 39px;
+    
+    color: #104FAC;
+}
+.priceAnnounceChestie {
+    position: absolute;
+    width: 158px;
+    height: 47px;
+    left: 315.32px;
+    top: 821.28px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+}
+.descrierePtAnunt {
+    position: absolute;
+    width: 180px;
+    height: 41px;
+    left: 315.32px;
+    top: 919.23px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+    
+}
+.descriereaAdev {
+    position: absolute;
+    width: 1000px;
+    height: 665px;
+    left: 315.32px;
+    top: 984.78px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.insuranceTityle {
+    position: absolute;
+    width: 173px;
+    height: 41px;
+    left: 315.32px;
+    top: 2226.15px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+    
+    
+    color: #104FAC;
+}
+.ptProtection {
+    position: absolute;
+    left: 327.13px;
+    right: 78.33%;
+    top: 
+    2334.94px;
+    bottom: 38.42%;
+    
+}
+.titleProtectionC {
+    position: absolute;
+    width: 249px;
+    height: 35px;
+    left: 444.08px;
+    top: 2334.94px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #1E90FF;
+    
+}
+.subTitleProt {
+    position: absolute;
+    width: 819.93px;
+    height: 52px;
+    left: 444.08px;
+    top: 2378.63px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    
+    color: #104FAC;
+    
+}
+.oLinieAici {
+    position: absolute;
+    width: 540.98px;
+    height: 12.38px;
+    left: 315.32px;
+    top: 2737.04px;
+    
+    background: rgba(16, 79, 172, 0.4);
+    border-radius: 10px;
+}
+.oAltaLinieAici {
+    position: absolute;
+    width: 530.93px;
+    height: 12.38px;
+    left: 1064.07px;
+    top: 2737.04px;
+    
+    background: rgba(16, 79, 172, 0.4);
+    border-radius: 10px;
+}
+.UnRotundAici {
+    position: absolute;
+    width: 146.89px;
+    height: 133.2px;
+    left: 888.81px;
+    top: 2676.63px;
+    
+    border-radius: 50%;
+    background: #104FAC;
+}
+.UserNameSubCerc {
+    position: absolute;
+    width: 73px;
+    height: 35px;
+    left: 925.75px;
+    top: 2825.26px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.UnNrAiciSiaICI {
+    position: absolute;
+    width: 85px;
+    height: 59px;
+    left: 337.67px;
+    top: 2919.27px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 59px;
+    /* identical to box height */
+    
+    
+    color: #1E90FF;
+}
+.AltAiciNumar {
+    position: absolute;
+    width: 153px;
+    height: 35px;
+    left: 303.67px;
+    top: 2999.58px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    
+    color: #104FAC;
+    
+}
+.ATreiaLinie {
+    position: absolute;
+    left: 315.32px;
+    right: 16.68%;
+    top: 
+    3139.77px;
+    bottom: 20.41%;
+    
+    width: 1279.68px;
+    height: 9.58px;
+
+    background: rgba(16, 79, 172, 0.4);
+}
+.otherFrom {
+    position: absolute;
+width: 263px;
+height: 41px;
+left: 315.32px;
+top: 3224.65px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}

@@ -1,0 +1,629 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -400px;
+  top: 0px;
+}
+.forgotemailtitle {
+/* Zeodon */
+position: absolute;
+width: 136px;
+height: 47px;
+left: 652px;
+top: 848px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1E90FF;;
+
+}
+.forgotemailsubtitle {
+/* You don’t remember your email ? No problem */
+
+
+position: absolute;
+width: 500px;
+height: 29px;
+left: 470px;
+top: 903px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: rgba(0, 0, 0, 0.7);
+
+
+
+}
+.forgotemailsubsubtitle{
+position: absolute;
+width: 542px;
+height: 44.55px;
+left: 449px;
+top: 946.5px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #B3B3B3;
+
+}
+.forgotemailusernamebox {
+/* username */
+
+
+position: absolute;
+width: 112px;
+height: 29px;
+left: 533px;
+top: 1068px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: left;
+padding-left: 5px;
+color: #B3B3B3;
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 412px;
+height: 53px;
+left: 524px;
+top: 1056px;
+
+background: #FFFFFF;
+border: 1.5px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.forgotemailusernamebox::placeholder {
+    
+color: #1E90FF;
+
+}
+.forgotemailnewemailbox {
+/* new email */
+
+
+position: absolute;
+left: 2.67%;
+right: 69.66%;
+top: 22.64%;
+bottom: 22.64%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: left;
+padding-left: 5px;
+color: #B3B3B3;
+/* Frame */
+
+
+position: absolute;
+width: 412px;
+height: 53px;
+left: 524px;
+top: 1152px;
+background: #FFFFFF;
+border: 1.5px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.forgotemailnewemailbox::placeholder {
+    
+color: #1E90FF;
+
+}
+.forgotemailnewemailbox2 {
+/* confirm email */
+
+
+position: absolute;
+left: 2.18%;
+right: 60.19%;
+top: 22.64%;
+bottom: 22.64%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+text-align: left;
+padding-left: 5px;
+
+color: #B3B3B3;
+/* Frame */
+
+
+position: absolute;
+width: 412px;
+height: 53px;
+left: 525px;
+top: 1248px;
+background: #FFFFFF;
+border: 1.5px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 4px;
+}
+.forgotemailnewemailbox2::placeholder {
+    
+color: #1E90FF;
+
+}
+.forgotemailsubmit {
+/* Submit */
+
+
+
+position: absolute;
+left: 30.64%;
+right: 30.64%;
+top: 17.78%;
+bottom: 17.78%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #1E90FF;
+/* Frame */
+
+
+position: absolute;
+width: 204px;
+height: 45px;
+left: 618px;
+top: 1329px;
+
+background-color: transparent;
+border: 1px solid #1E90FF;
+border-radius: 5px;
+
+}
+.forgotemailforgotusername {
+/* Forgot username ? Contact us */
+
+
+position: absolute;
+width: 243px;
+height: 21px;
+left: 889px;
+top: 1390px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+
+color: #000000;
+}
+.titleFPass {
+    position: absolute;
+width: 136px;
+height: 47px;
+left: 652px;
+top: 187.24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.subTiteFPass {
+position: absolute;
+width: 501px;
+height: 29px;
+left: 510px;
+top: 248.42px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: #1E90FF;
+
+
+}
+.susususb {
+position: absolute;
+width: 628.63px;
+height: 46px;
+left: 405.68px;
+top: 297.61px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+color: #104FAC;
+
+}
+.textInputEMAIL {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 29px;
+padding: 20px 0px 0px 17px;
+
+color: #1E90FF;
+
+position: absolute;
+width: 459.21px;
+height: 81.03px;
+left: 524px;
+top: 373.5px;
+
+border: none;
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 6px;
+}
+.sendEmailPass {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 19px;
+  line-height: 22px;
+  text-align: center;
+  
+  color: #1E90FF;
+
+position: absolute;
+width: 204px;
+height: 45px;
+left: 525px;
+top: 486.95px;
+
+background-color: transparent;
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 20px;
+}
+.forgotEmailPP {
+position: absolute;
+width: 165px;
+height: 23px;
+left: 840px;
+top: 484.42px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+color: #104FAC;
+}
+.pass {
+    position: relative;
+    left: -180px;
+}
+.fImg {
+  position: absolute;
+  left: -210px;
+}
+.tImg {
+  position: absolute;
+  left: 853px;
+  top: -56px;
+}
+.emailPassPlaceHolder {
+  position: absolute;
+width: 143px;
+height: 21px;
+left: 540px;
+top: 385px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #104FAC;
+
+}
+.forgetEmailTitle {
+  position: absolute;
+  width: 136px;
+  height: 47px;
+  left: 892px;
+  top: 187.24px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+  
+}
+.forgetEmailSubTitle {
+  position: absolute;
+  width: 559px;
+  height: 35px;
+  left: 680.5px;
+  top: 248.42px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #1E90FF;
+}
+.forgetEmailSubSubTitle {
+  position: absolute;
+  width: 832.61px;
+  height: 46px;
+  left: 543.7px;
+  top: 297.6px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  
+  color: #104FAC;
+  
+}
+.forgetEmailUsername {
+  position: absolute;
+  width: 459.21px;
+  height: 81.03px;
+  left: 730px;
+  top: 381px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 6px;
+  border: none;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+
+color: #1E90FF;
+padding: 20px 0px 0px 18px;
+
+}
+.forgetEmailPassword {
+  position: absolute;
+  width: 459.21px;
+  height: 81.03px;
+  left: 730.4px;
+  top: 478.73px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 6px;
+  border: none;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+
+color: #1E90FF;
+padding: 20px 0px 0px 18px;
+
+}
+.forgetEmailnewEmail {
+  position: absolute;
+  width: 459.21px;
+  height: 81.03px;
+  left: 730.4px;
+  top: 576.33px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 6px;
+  border: none;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+
+color: #1E90FF;
+padding: 20px 0px 0px 18px;
+
+}
+.forgetEmailrepeat {
+  position: absolute;
+  width: 459.21px;
+  height: 81.03px;
+  left: 730.4px;
+  top: 673.93px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 6px;
+  border: none;
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+
+color: #1E90FF;
+padding: 20px 0px 0px 18px;
+
+}
+.titleForInputUser {
+  position: absolute;
+  width: 83px;
+  height: 21px;
+  left: 742.55px;
+  top: 390.37px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #104FAC;
+}
+.titleForInputPassword {
+  position: absolute;
+  width: 80px;
+  height: 21px;
+  left: 742.39px;
+  top: 487.97px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #104FAC;
+  
+}
+.titleForInputNewEmail {
+  position: absolute;
+  width: 85px;
+  height: 21px;
+  left: 742.55px;
+  top: 585.57px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #104FAC;
+  
+}
+.titleForInputRepeat {
+  position: absolute;
+  width: 114px;
+  height: 21px;
+  left: 742.55px;
+  top: 683.16px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  text-align: center;
+  
+  color: #104FAC;
+  
+}
+.finalOFsTEPS {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+text-align: center;
+
+color: #1E90FF;
+position: absolute;
+width: 226.59px;
+height: 46.93px;
+left: 730.4px;
+top: 787.37px;
+
+border: 1px solid #1E90FF;
+box-sizing: border-box;
+border-radius: 20px;
+background-color: transparent;
+}
+.imgOneOfThis {
+  position: absolute;
+  left: -1200px;
+  top: -700px;
+}
+.twoOneIMgChest {
+  position: absolute;
+  left: 1394.2px;
+  top: 
+  636.02px;
+}

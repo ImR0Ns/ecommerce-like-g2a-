@@ -1,0 +1,1474 @@
+* {
+    font-family: 'Roboto', sans-serif;
+  }
+  input:focus {
+    outline: none;
+  }
+  .pr {
+    position: relative;
+    left: -400px;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  .fImg {
+    position: absolute;
+    left: 0px;
+  }
+.zeodonTilt {
+  position: absolute;
+width: 249px;
+height: 47px;
+left: 85.99px;
+top: 62.41px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #104FAC;
+}
+.firstA {
+  position: absolute;
+width: 77px;
+height: 41px;
+left: 1368.62px;
+top: 65.41px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}
+.secondA {
+  position: absolute;
+  width: 81px;
+  height: 41px;
+  left: 1530.82px;
+  top: 65.41px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+
+}
+.thirdA {
+  position: absolute;
+width: 137px;
+height: 41px;
+left: 1697.01px;
+top: 65.41px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #104FAC;
+}
+.startMing {
+  font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+position: absolute;
+width: 353.09px;
+height: 65.02px;
+left: 783.46px;
+top: 370.83px;
+border: none;
+background: #1E90FF;
+box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.5);
+border-radius: 100px;
+}
+.titleGoldMainPage {
+  position: absolute;
+width: 249px;
+height: 47px;
+left: 85.99px;
+top: 56.38px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #104FAC;
+
+}
+.imgProfMainPage {
+  position: absolute;
+width: 183.9px;
+height: 191.38px;
+left: 868.05px;
+top: 203.84px;
+
+border-radius: 50%;
+background-color: red;
+}
+.bgImgForPRo {
+  position: absolute;
+width: 196.49px;
+height: 204.07px;
+left: 861.76px;
+top: 197.49px;
+border-radius: 50%;
+border: 4px solid #1E90FF;
+box-sizing: border-box;
+}
+.nameIMgProf {
+  position: absolute;
+width: 97px;
+height: 47px;
+left: 911.5px;
+top: 412.98px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.yourStatsMainP {
+  position: absolute;
+width: 182px;
+height: 47px;
+left: 210.49px;
+top: 544.02px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #104FAC;
+}
+.bgFCase {
+  position: absolute;
+width: 408.91px;
+height: 133.1px;
+left: 210.49px;
+top: 619.16px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 50px;
+}
+.bgFCaseO {
+  position: absolute;
+  width: 91px;
+  height: 47px;
+  left: 255.99px;
+  top: 662.21px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+  
+}
+.bgFCaseT {
+  position: absolute;
+  width: 156.75px;
+  height: 70px;
+  left: 423.56px;
+  top: 650.71px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  
+}
+.tanformGold {
+  position: absolute;
+width: 350px;
+height: 47px;
+left: 810px;
+top: 988.82px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #104FAC;
+}
+.balantaChestie {
+  position: absolute;
+width: 138px;
+height: 29px;
+left: 576.63px;
+top: 1077.72px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #104FAC;
+
+}
+.AtentiuneaAiA {
+  position: absolute;
+width: 800px;
+height: 29px;
+left: 626.67px;
+top: 1228.19px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #104FAC;
+
+}
+.submitButtAici {
+  position: absolute;
+width: 111px;
+height: 41px;
+left: 1424.89px;
+top: 1124.9px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+border: none;
+background-color: transparent;
+}
+.dinGold {
+  position: absolute;
+  width: 329.48px;
+  height: 68.88px;
+  left: 576.63px;
+  top: 1110.96px;
+  
+  border: 1px solid #104FAC;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.inDolari {
+  position: absolute;
+  width: 329.48px;
+  height: 68.88px;
+  left: 1013.89px;
+  top: 1110.96px;
+  
+  border: 1px solid #1E90FF;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.goldPtInput {
+  position: absolute;
+  width: 77px;
+  height: 35px;
+  left: 818.34px;
+  top: 1127.9px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  
+}
+.ptDolariiInput {
+  position: absolute;
+  width: 17px;
+  height: 35px;
+  left: 1299.68px;
+  top: 1127.9px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #1E90FF;
+}
+.oImgAiciss {
+  position: absolute;
+  top: 1000px;
+}
+.rankMineTitl {
+  position: absolute;
+  width: 632px;
+  height: 47px;
+  left: 644px;
+  top: 245.03px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.rankMineSubTitl {
+  position: absolute;
+  width: 876px;
+  height: 41px;
+  left: 522px;
+  top: 303.92px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.startMiningHere {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+  position: absolute;
+  width: 353.09px;
+  height: 65.02px;
+  left: 783.46px;
+  top: 384.1px;
+  border: none;
+  background: #1E90FF;
+  box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.5);
+  border-radius: 100px;
+}
+.aboutThisRank {
+  position: absolute;
+  width: 1382.05px;
+  height: 806.5px;
+  left: 268.97px;
+  top: 606.99px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 20px;
+}
+.userImgRank {
+  position: absolute;
+  width: 169.97px;
+  height: 170.23px;
+  left: 363.29px;
+  top: 687.86px;
+  
+  border-radius: 50%;
+  border: 1px solid #1e90ff;
+}
+.rankNameUser {
+  position: absolute;
+  width: 97px;
+  height: 47px;
+  left: 584.99px;
+  top: 700.15px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.titleRankNameUser {
+  position: absolute;
+  width: 251px;
+  height: 35px;
+  left: 584.99px;
+  top: 755.48px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+}
+.viewStatsRank {
+  position: absolute;
+  width: 153px;
+  height: 29px;
+  left: 786.92px;
+  top: 858.09px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #1E90FF;
+}
+.linieSubView {
+  position: absolute;
+  width: 600.14px;
+  height: 0px;
+  left: 314.46px;
+  top: 906.05px;
+  
+  border: 0.7px solid rgba(16, 79, 172, 0.6);
+}
+.weeklyViewStats {
+  position: absolute;
+  width: 195px;
+  height: 35px;
+  left: 314.46px;
+  top: 933.68px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  
+}
+.bgWuestsR {
+  position: absolute;
+  width: 585.46px;
+  height: 92.78px;
+  left: 314.46px;
+  top: 1011.52px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 20px;
+}
+.titleQuestR {
+  position: absolute;
+  width: 184px;
+  height: 29px;
+  left: 393.58px;
+  top: 1031.46px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #104FAC;
+  
+}
+.subTitlQuestR {
+  position: absolute;
+  width: 222px;
+  height: 21px;
+  left: 393.58px;
+  top: 1062.55px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+  color: rgba(179, 179, 179, 0.6);
+}
+.goldfORr {
+  position: absolute;
+  width: 43px;
+  height: 29px;
+  left: 803.21px;
+  top: 1035.76px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #1E90FF;
+}
+.forImgQuest {
+  position: absolute;
+left: 
+329.18px;
+right: 80.77%;
+top: 
+1034.33px;
+bottom: 51.42%;
+
+}
+.topMinersRank {
+  position: absolute;
+  width: 183px;
+  height: 41px;
+  left: 1242.17px;
+  top: 634.67px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.bgRankMM {
+  position: absolute;
+  width: 579.08px;
+  height: 111.94px;
+  left: 1044.13px;
+  top: 700.68px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 20px;
+}
+.imgProfileRank {
+  position: absolute;
+  width: 84.4px;
+  height: 84.98px;
+  left: 1069.15px;
+  top: 714.16px;
+  border-radius: 50%;
+}
+.titleRankBgMM {
+  position: absolute;
+  width: 187px;
+  height: 35px;
+  left: 1172.03px;
+  top: 714.16px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+}
+.levelRankBgMM {
+  position: absolute;
+  width: 104px;
+  height: 33px;
+  left: 1172.03px;
+  top: 756.65px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 33px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.rankWhoIsHe {
+  position: absolute;
+width: 42px;
+height: 41px;
+left: 1037.78px;
+top: 687.56px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+.goldTotalEarned {
+  position: absolute;
+width: 100px;
+height: 66px;
+left: 1496.46px;
+top: 723.65px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+
+color: #1E90FF;
+
+}
+.whatAreYouLooking {
+  position: absolute;
+width: 506px;
+height: 35px;
+left: 707.05px;
+top: 1632.58px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #104FAC;
+
+}
+.puncteleAleaPNM {
+  position: absolute;
+width: 7.77px;
+height: 8.22px;
+left: 1044.13px;
+top: 1180px;
+
+font-size: 50px;
+}
+.MinePageTitle {
+  position: absolute;
+  width: 90px;
+  height: 47px;
+  left: 915px;
+  top: 168.34px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.MinePageVideos {
+  position: absolute;
+  width: 323.98px;
+  height: 63.96px;
+  left: 418.75px;
+  top: 247.08px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.25);
+  border-radius: 20px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 37px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+  
+  padding: 15px 0px 0px 120px;
+  text-shadow: 0px 1px 4px rgba(30, 144, 255, 0.2);
+}
+.MinePageDaily {
+  position: absolute;
+  width: 65px;
+  height: 35px;
+  left: 927.5px;
+  top: 247.08px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  
+}
+.MinePageTasks {
+  position: absolute;
+  width: 79px;
+  height: 35px;
+  left: 1301.15px;
+  top: 247.08px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+}
+.bgMinePage {
+  position: absolute;
+  width: 1669.82px;
+  height: 757.68px;
+  left: 123.73px;
+  top: 408.74px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.25);
+  border-radius: 20px;
+}
+.imgFromMinePage {
+  position: absolute;
+left: 123.54px;
+right: 41.31%;
+top: 
+556.91px;
+bottom: 7.18%;
+}
+.LetsStartMining {
+  position: absolute;
+  width: 270px;
+  height: 41px;
+  left: 707.89px;
+  top: 501.65px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+  
+}
+.letsstartmining {
+  position: absolute;
+  width: 504.22px;
+  height: 58px;
+  left: 707.89px;
+  top: 549.22px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #104FAC;
+  
+}
+.baraMiningStanga {
+  position: absolute;
+width: 2.28px;
+height: 743.13px;
+left: 1296.72px;
+top: 416.02px;
+
+background: #1E90FF;
+border-radius: 20px;
+}
+.imgMiningDreapta {
+  position: absolute;
+  width: 155.77px;
+  height: 149.28px;
+  left: 1455.17px;
+  top: 463.31px;
+  border-radius: 50%;
+
+  border: 2px solid #1e90ff;
+}
+.tilteMiningDreapta {
+position: absolute;
+width: 85px;
+height: 41px;
+left: 1490.55px;
+top: 637.28px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.questsOneStanga {
+  position: absolute;
+  width: 218.49px;
+  height: 30px;
+  left: 1340.65px;
+  top: 752.93px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #104FAC;
+  
+}
+.questsTwoStanga {
+  position: absolute;
+  width: 141px;
+  height: 30px;
+  left: 1340.65px;
+  top: 839.05px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #104FAC;
+  
+}
+.questsThreeStanga {
+  position: absolute;
+  width: 155px;
+  height: 30px;
+  left: 1340.65px;
+  top: 925.17px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #104FAC;
+  
+}
+.questsFourStanga {
+  position: absolute;
+  width: 132px;
+  height: 30px;
+  left: 1340.65px;
+  top: 1011.29px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #104FAC;
+  
+}
+.qOT {
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  left: 1717.71px;
+  top: 752.93px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #1E90FF;
+  
+}
+.qTS {
+  position: absolute;
+  width: 58px;
+  height: 30px;
+  left: 1696.21px;
+  top: 839.05px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #1E90FF;
+}
+.qTHS {
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  left: 1717.71px;
+  top: 925.17px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #1E90FF;
+}
+.qFS {
+  position: absolute;
+  width: 59px;
+  height: 30px;
+  left: 1695.71px;
+  top: 1011.29px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  
+  color: #1E90FF;
+}
+.OfferTorroAici {
+  position: absolute;
+  width: 1669.82px;
+  height: 757.68px;
+  left: 125.09px;
+  top: 367.91px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.25);
+  border-radius: 20px;
+}
+.offerTorroTit {
+  position: absolute;
+  width: 187px;
+  height: 47px;
+  left: 866.5px;
+  top: 709.75px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+}
+.stangaImg {
+  position: absolute;
+  top: 550px;
+  z-index: -1;
+}
+.bgVideoHere {
+  position: absolute;
+  width: 989.07px;
+  height: 705.76px;
+  left: 159.19px;
+  top: 394.76px;
+  
+  background: #000000;
+  border-radius: 5px;
+}
+.afterVudeiEbds {
+  position: absolute;
+  width: 461.11px;
+  height: 58px;
+  left: 1235.9px;
+  top: 717.75px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #1E90FF;
+  
+}
+.puncetelDeSusp {
+  position: absolute;
+  width: 10.34px;
+  height: 10.11px;
+  left: 1445px;
+  top: 750px;
+  color: #1E90FF;
+  font-size: 50px;
+}
+.oneLastTHing {
+  position: absolute;
+  width: 474px;
+  height: 29px;
+  left: 1234.59px;
+  top: 407.25px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #104FAC;
+  
+}
+.whatWasTheVideo {
+  position: absolute;
+width: 239px;
+height: 23px;
+left: 1182.83px;
+top: 477.87px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: #104FAC;
+}
+.aiciInputLaWhat {
+  position: absolute;
+width: 577.51px;
+height: 75.12px;
+left: 1182.83px;
+top: 511.64px;
+
+border: none;
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 15px;
+}
+.howInteressetUWas {
+  position: absolute;
+  width: 504px;
+  height: 23px;
+  left: 1182.83px;
+  top: 617.4px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #104FAC;
+  
+}
+.withNumbersHere {
+  position: absolute;
+  width: 577.51px;
+  height: 75.12px;
+  left: 1182.83px;
+  top: 651.17px;
+  
+  border: none;
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 15px;
+}
+.thoughAiciNush {
+  position: absolute;
+  width: 94px;
+  height: 23px;
+  left: 1182.83px;
+  top: 756.94px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #104FAC;
+  
+}
+.ptThoughtKt {
+  position: absolute;
+  width: 577.51px;
+  height: 116.51px;
+  left: 1182.83px;
+  top: 790.71px;
+  
+  border: none;
+  background: #FFFFFF;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 15px;
+}
+.rateThisVideo {
+  position: absolute;
+  width: 131px;
+  height: 23px;
+  left: 1182.83px;
+  top: 937.86px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  
+  color: #104FAC;
+}
+.submitChestiAici {
+  font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+position: absolute;
+width: 301.58px;
+height: 64.52px;
+left: 1458.76px;
+top: 1033.19px;
+
+background: #1E90FF;
+box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.5);
+border-radius: 30px;
+border:none;
+}
+.dreaptaChestisAici {
+  position: absolute;
+  left: 1720px;
+  top: 1080px;
+}
+.QQImg {
+  position: absolute;
+left:
+340.72px;
+right: 78.91%;
+top: 430.35px;
+bottom: 59.12%;
+width: 50px;
+height: 50px;
+
+background: #104FAC;
+}
+.bgQuestChestie {
+  position: absolute;
+width: 1325.64px;
+height: 116.72px;
+left: 299.71px;
+top: 403.91px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 20px;
+}
+.QQTitle{
+  position: absolute;
+  width: 176px;
+  height: 33px;
+  left: 456.32px;
+  top: 429.83px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 33px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.QQSubTitle{
+  position: absolute;
+  width: 347px;
+  height: 26px;
+  left: 456.32px;
+  top: 465.25px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 26px;
+  /* identical to box height */
+  
+  
+  color: rgba(179, 179, 179, 0.4);
+  
+}
+.QQGold {
+  position: absolute;
+  width: 126px;
+  height: 33px;
+  left: 1027.85px;
+  top: 446.69px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 28px;
+  line-height: 33px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.barComplete {
+  position: absolute;
+  width: 258.89px;
+  height: 23.57px;
+  left: 1315.58px;
+  top: 450.49px;
+  
+  background: white;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+  border-radius: 20px;
+}
+.procenteQQ {
+  position: absolute;
+  width: 32px;
+  height: 20px;
+  left: 1542.93px;
+  top: 430.69px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 20px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.QQpremiumChestie {
+  position: absolute;
+width: 169.95px;
+height: 72.08px;
+left: 1455.4px;
+top: 500px;
+z-index: -1;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.25);
+border-radius: 10px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #1E90FF;
+text-align: center;
+padding-top: 25px;
+}
+.affImgS {
+  position: absolute;
+  top: 
+  581.88px;
+}
+.affImgD {
+  position: absolute;
+  left: 1299.38px;
+  z-index: -1;
+}
+.affTitl {
+  position: absolute;
+  width: 160px;
+  height: 47px;
+  left: 880px;
+  top: 176.99px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+}
+.subTitlAff {
+  position: absolute;
+  width: 640px;
+  height: 41px;
+  left: 640px;
+  top: 274.48px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color: #1E90FF;
+  
+}
+.subSubTitlAff {
+  position: absolute;
+  width: 911.47px;
+  height: 58px;
+  left: 504.27px;
+  top: 330.58px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #104FAC;
+}
+.idAfff {
+  position: absolute;
+  width: 599px;
+  height: 67.12px;
+  left: 660.5px;
+  top: 439.06px;
+  
+  border: 1.3px solid #1E90FF;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+.shareButtId {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #FFFFFF;
+  position: absolute;
+width: 96.53px;
+height: 67.12px;
+left: 1162.97px;
+top: 439.06px;
+
+border: none;
+background: #1E90FF;
+border-radius: 0px 6px 6px 0px;
+}
+.urfriendOne {
+  position: absolute;
+  width: 356.22px;
+  height: 58px;
+  left: 198.77px;
+  top: 773.25px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+.urfriendTwo {
+  position: absolute;
+  width: 373px;
+  height: 58px;
+  left: 771.17px;
+  top: 715.25px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+.urfriendThree {
+  position: absolute;
+  width: 345px;
+  height: 29px;
+  left: 1365.86px;
+  top: 784.74px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  text-align: center;
+  
+  color: #FFFFFF;
+  
+}
+.uEarnGold {
+  position: absolute;
+width: 168px;
+height: 29px;
+left: 873.67px;
+top: 924.95px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #FFFFFF;
+
+}

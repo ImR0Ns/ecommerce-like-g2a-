@@ -1,0 +1,429 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+    left: -390px;
+}
+.zeodonBoard {
+position: absolute;
+width: 249px;
+height: 47px;
+left: 817.61px;
+top: 177.47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #1E90FF;
+
+}
+.hO {
+position: absolute;
+width: 182px;
+height: 29px;
+left: 328.24px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.hT {
+    position: absolute;
+width: 125px;
+height: 29px;
+left: 563.75px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.hTH {
+    position: absolute;
+width: 144px;
+height: 29px;
+left: 742.27px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.hF {
+    position: absolute;
+width: 175px;
+height: 29px;
+left: 939.78px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.hFI {
+    position: absolute;
+width: 177px;
+height: 29px;
+left: 1168.3px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.hS {
+    position: absolute;
+width: 162px;
+height: 29px;
+left: 1398.81px;
+top: 277.67px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.borderBalance {
+    position: absolute;
+    width: 409.76px;
+    height: 156.16px;
+    left: 329.27px;
+    top: 363.94px;
+    
+    border: 2px solid #104FAC;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+.balanceRes {
+    position: absolute;
+    width: 270px;
+    height: 70px;
+    left: 399.15px;
+    top: 407.02px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 60px;
+    line-height: 70px;
+    
+    color: #1E90FF;
+    
+}
+.moneyReservedFrom {
+position: absolute;
+width: 382px;
+height: 47px;
+left: 329.27px;
+top: 652.68px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.oneR {
+position: absolute;
+width: 30px;
+height: 29px;
+left: 329.27px;
+top: 765.33px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 29px;
+
+color: #B3B3B3;
+
+}
+.imgR {
+position: absolute;
+width: 388.79px;
+height: 178.13px;
+left: 329.27px;
+top: 797.94px;
+
+background: #C4C4C4;
+}
+.reasonR {
+position: absolute;
+width: 359px;
+height: 35px;
+left: 329.27px;
+top: 1019.93px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.titleR {
+position: absolute;
+width: 603px;
+height: 140px;
+left: 754.2px;
+top: 797.94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.ordersR {
+position: absolute;
+width: 603px;
+height: 140px;
+left: 754.2px;
+top: 837.94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.soldToR {
+position: absolute;
+width: 603px;
+height: 140px;
+left: 754.2px;
+top: 877.94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.dateS {
+position: absolute;
+width: 603px;
+height: 140px;
+left: 754.2px;
+top: 917.94px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.priceR {
+position: absolute;
+width: 109px;
+height: 47px;
+left: 1618px;
+top: 794.33px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+color: #1E90FF;
+}
+.reservedUntilR {
+
+position: absolute;
+width: 350px;
+height: 35px;
+left: 1284.73px;
+top: 1019.93px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.activeEmpl{
+position: absolute;
+    top: 400px;
+left: 350px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+
+}
+.activesBgS {
+position: absolute;
+    top: 450px;
+left: 350px;
+width: 350px;
+height: 100px;
+background: linear-gradient(262.5deg, #38EF7D -116.35%, #38EF7D -116.32%, #11998E 154.57%);
+border-radius: 10px;
+}
+.activeNr {
+position: absolute;
+top: 470px;
+left: 510px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.bgUserE {
+
+position: absolute;
+left: 350px;
+top: 600px;
+width: 150px;
+height: 150px;
+border-radius: 50%;
+background: #C4C4C4;
+}
+.nameUserE {
+position: absolute;
+left: 650px;
+top: 600px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+
+
+}
+.cureentJE {
+position: absolute;
+left: 650px;
+top: 650px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+}
+.CompleteUE {
+position: absolute;
+left: 650px;
+top: 690px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.paymentE {
+position: absolute;
+left: 650px;
+top: 730px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 35px;
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.messageER {
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 35px;
+line-height: 41px;
+
+position: absolute;
+padding: 10px 50px 10px 50px;
+left: 1250px;
+top: 790px;
+
+color: #38EF7D;
+border: 1px solid #38EF7D;
+background-color: transparent;
+border-radius: 5px;
+}
+.liniePtKK {
+    position: absolute;
+left: 300px;
+top: 880px;
+width: 1250px;
+height: 5px;
+
+background: #F1F1F1;
+border-radius: 5px;
+}

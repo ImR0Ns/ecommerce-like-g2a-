@@ -1,0 +1,525 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+header img {
+    margin: 0px 0px 0px -405px;
+}
+header h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 90px;
+    line-height: 105px;
+
+    color: #FFFFFF;
+    margin: -700px 0px 0px 0px;
+}
+header p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+header button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+    border: 3px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    background: transparent;
+    padding: 10px 150px 10px 150px;
+    margin: 0px 0px 0px 330px;
+}
+.flexDirection {
+    display: flex;
+}
+.iconsSocialMedia i{
+    margin: 0px 40px 0px 0px;
+    color: white;
+}
+.iconsSocialMedia {
+    margin: 370px 0px 0px 1240px;
+}
+.iconsSocialMedia .igPos{
+    margin: 15px 0px 0px 0px;
+}
+.iconsSocialMedia .twitterPos{
+    margin: 25px 0px 0px 0px;
+}
+.whatCanYouDo {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: 60px 0px 0px 0px;
+}
+.threeTopics p{
+    margin: 0px 15px 0px 85px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+}
+.threeTopics {
+    background: linear-gradient(90.79deg, #4568DC -0.25%, #B06AB3 100.37%, #B06AB3 100.38%);
+    border-radius: 60px;
+    padding: 30px 0px 30px 0px; 
+    margin: 100px 0px 0px 0px;
+}
+.weUnderstand {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+
+    color: rgba(0, 0, 0, 0.7);
+    width: 1150px;
+    margin: 150px 0px 0px 0px;
+}
+.firstCase {
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 50px 100px 50px 100px;
+}
+.firstCase h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 53px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.7);
+    width: 300px;
+    margin: 0px 0px 0px -20px;
+}
+.firstCase p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #B3B3B3;
+    margin: 0px 0px 0px -20px;
+}
+.secondCase {
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 50px 100px 50px 100px;
+}
+.secondCase h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 53px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.7);
+    width: 300px;
+    margin: 0px 0px 0px -20px;
+}
+.secondCase p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #B3B3B3;
+    margin: 0px 0px 0px -20px;
+}
+.thirdCase {
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 50px 100px 50px 100px;
+    z-index: 1;
+}
+.thirdCase h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 53px;
+    /* identical to box height */
+
+    color: rgba(0, 0, 0, 0.7);
+    width: 300px;
+    margin: 0px 0px 0px -20px;
+
+}
+.thirdCase p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+
+    color: #B3B3B3;
+    margin: 0px 0px 0px -20px;
+}
+.casesUnderstand {
+    margin: 100px 0px 0px -370px;
+}
+.casesUnderstand div{
+    margin: 0px 190px 0px 0px;
+}
+.imgLetSee {
+    margin: -70px 0px 0px -405px;
+    z-index: -1;
+}
+.letSee {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: -500px 0px 0px 0px;
+}
+.titleInstr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 100px;
+    line-height: 117px;
+
+    color: #1E90FF;
+}
+.numbInstr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 200px;
+    line-height: 234px;
+
+    color: #1E90FF;
+    margin: 0px 0px 0px -40px;
+}
+.subtitlInstr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: -210px 0px 0px 90px;
+}
+.descInstr {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #B3B3B3;
+    margin: 0px 0px 0px 90px;
+    width: 666.82px;
+}
+.sellerInstr {
+    margin: 400px 0px 0px -300px;
+}
+.sellerCaseOne {
+    margin: 50px 0px 0px 0px;
+}
+.sellerCaseTwo {
+    margin: 50px 0px 0px 0px;
+}
+.subtitlInstrTwo {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: -200px 0px 0px 90px;
+}
+.descInstrTwo {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #B3B3B3;
+    margin: 10px 0px 0px 90px;
+    width: 666.82px;
+}
+.buyerCase {
+    margin: 400px 0px 0px 250px;
+}
+.noTimeSeeImg {
+    margin: 200px 0px 0px -410px;
+}
+.noTimeText {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: -480px 0px 0px 0px;
+}
+.phoneNoTime {
+    margin: 150px 0px 0px 800px;
+}
+.downloadTitle {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 45px;
+    line-height: 53px;
+    color: #1E90FF;
+    margin: -700px 0px 0px -200px;
+}
+.zeodonApp {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: 0px 0px 0px -200px;
+    width: 979.84px;
+}
+.appStoreButt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #000000;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px 120px 10px 100px;
+    margin: 300px 0px 0px 360px;
+}
+.googlePlayBut {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #000000;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px 80px 10px 80px;    
+    margin: 0px 60px 0px -60px;
+}
+.huaweyPlayButt {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: #000000;
+    background: #FFFFFF;
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    border-radius: 8px;
+    padding: 10px 80px 10px 80px;   
+}
+.buttonsApps {
+    margin: 20px 0px 0px 0px;
+}
+.customersOpp {
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 70px;
+    line-height: 82px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: 350px 0px 0px 0px;
+}
+.caseCustomers {
+    background: #FFFFFF;
+    border: 3px solid #F1F1F1;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 0px 20px 0px 30px;
+}
+.caseCustomers img {
+    width: 40px;
+    height: 40px;
+}
+.userNameCust {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 47px;
+    /* identical to box height */
+
+
+    color: rgba(0, 0, 0, 0.7);
+    margin: -5px 0px 0px 10px;
+}
+.userNameDesc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+
+    color: #B3B3B3;
+    margin: 10px 0px 0px 0px;
+    width: 559.1px;
+}
+.casesCustomers {
+    margin: 100px 0px 0px -400px;
+}
+.ratingStars {
+    color: #07C0B5;
+    font-size: 50px;
+}
+.finalImg {
+    margin: 0px 0px 0px -405px;
+}
+.zeodonFinal {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 53px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    margin: -900px 0px 0px -100px;
+}
+.zeodonLanguageFinal {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    background-color: transparent;
+    border: none;
+    margin: 10px 0px 0px -100px;
+}
+.copyrightZeodon {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    margin: 350px 0px 0px -100px;
+}
+.agreements {
+    margin: -35px 0px 0px 200px;
+    position: relative;
+    left: 400px;
+    top: -20px;
+}
+.agreements a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 41px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+    margin: 0px 0px 0px 60px;
+}
+.gamesFinal {
+    margin: 0px 100px 0px 0px;
+}
+.gamesFinal a{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+
+}
+.gamesFinal p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.gamesCases {
+    margin: -850px 0px 0px 0px;
+    position: relative;
+    left: 750px;
+}

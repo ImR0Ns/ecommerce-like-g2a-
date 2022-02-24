@@ -1,0 +1,633 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.baraSPtCautare {
+  position: absolute;
+  width: 656.31px;
+  height: 45.47px;
+  left: 1229.83px;
+  top: 14.49px;
+  
+  background: #FFFFFF;
+  border: 1px solid rgba(30, 144, 255, 0.05);
+  box-sizing: border-box;
+  box-shadow: 0px 1px 4px rgba(30, 144, 255, 0.25);
+  border-radius: 20px;
+}
+.ptSubmitCautare {
+  position: absolute;
+  color: #104fac;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  left: 1825px;
+  top: 20px;
+}
+.realSearchBarChestie {
+  position: absolute;
+  top: 5px;
+  display: none;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.navBar {
+  position: absolute;
+  width: 29.45px;
+  height: 0px;
+  left: 36.69px;
+  top: 31.96px;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.title {
+  position: absolute;
+  width: 170px;
+  height: 59px;
+  left: 875px;
+  top: 14.96px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 59px;
+  /* identical to box height */
+
+  color: #1e90ff;
+}
+.lupaSearch {
+  position: absolute;
+  left: 1850px;
+  right: 2.57%;
+  top: 27.96px;
+  bottom: 94.18%;
+  color: #1e90ff;
+  border: none;
+  background-color: transparent;
+    cursor: pointer;
+}
+.baraHeader {
+  position: absolute;
+  width: 1920.01px;
+  height: 0px;
+  left: 0px;
+  top: 97.33px;
+
+  border: 2px solid #1e90ff;
+}
+.titlteAb {
+position: absolute;
+width: 201px;
+height: 59px;
+left: 859.5px;
+top: 239.72px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 59px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+}
+.description {
+position: absolute;
+width: 1075.37px;
+height: 439.19px;
+left: 422.31px;
+top: 376.13px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+
+color: #B3B3B3;
+
+}
+.baraAbout {
+position: absolute;
+width: 1841.91px;
+height: 0px;
+left: 37.24px;
+top: 914.06px;
+
+border: 1px solid rgba(0, 0, 0, 0.2);
+z-index: -1;
+}
+.followUs {
+    position: absolute;
+width: 192px;
+height: 53px;
+left: 852.2px;
+top: 991.47px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+/* identical to box height */
+
+
+color: rgba(0, 0, 0, 0.7);
+
+}
+.zeodon_fb {
+position: absolute;
+width: 172px;
+height: 161px;
+left: 271.32px;
+top: 1126.39px;
+}
+.zeodon_insta {
+position: absolute;
+width: 172px;
+height: 161px;
+left: 571.32px;
+top: 1126.39px;
+}
+.zeodon_steam {
+position: absolute;
+width: 172px;
+height: 161px;
+left: 871.32px;
+top: 1126.39px;
+}
+.zeodon_email {
+position: absolute;
+width: 172px;
+height: 161px;
+left: 1171.32px;
+top: 1126.39px;
+}
+.zeodon_twitter {
+position: absolute;
+width: 172px;
+height: 161px;
+left: 1471.32px;
+top: 1126.39px;
+}
+.zeodonTeam {
+    position: absolute;
+width: 236px;
+height: 47px;
+left: 1643.26px;
+top: 1343.62px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #1E90FF;
+}
+
+/* bara */
+.imgIccTT2 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+
+.baraceaoaresuidispare {
+  display: none;
+  z-index: 1;
+}
+.oimagineneagraaici {
+  position: absolute;
+  background-color: black;
+  width: 1919px;
+  left: 0px;
+  height: 1429px;
+  opacity: 0.5;
+}
+.bgBaraAscunsa {
+  position: absolute;
+  left: -0.36%;
+  right: 80.32%;
+  top: 0%;
+  bottom: -0.45%;
+  
+  background: #FFFFFF;
+  border: 1.5px solid #F1F1F1;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+
+  height: 968px;
+  width: 384.82px;
+}
+.laBaraUser {
+  position: absolute;
+  left: 
+  142.97px;
+  right: 88.13%;
+  top: 20px;
+  bottom: 93.65%;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  /* identical to box height */
+  
+  
+  color:#104fac;
+}
+.subTitleCc {
+  position: absolute;
+  left: 10px;
+  right: 95.59%;
+  top: 90px;
+  bottom: 89.3%;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+  
+  
+  color: #B3B3B3;
+  
+}
+.linileealea {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.imgIcc {
+  position: absolute;
+  width: 29.26px;
+  height: 27.51px;
+  left: 20px;
+  top: 160px;
+  
+  background:#104fac;
+  border-radius: 4px;
+}
+.imgIccTT {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.siSageataCC {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.linileealea2 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.linileealea3 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.linileealea4 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.linileealea5 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.siSageataCC2 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.siSageataCC3 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.siSageataCC4 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.siSageataCC5 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.imgIccTT3 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.imgIccTT4 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.imgIccTT5 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.helpTitleBB {
+  position: absolute;
+width: 45px;
+height: 21px;
+left: 8.76px;
+top: 727.86px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+
+color: #B3B3B3;
+
+}
+.imgIccTT6 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.linileealea6 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.siSageataCC6 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.imgIccTT8 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.linileealea8 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.siSageataCC8 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.imgIccTT7 {
+  position: absolute;
+  width: 132px;
+  height: 29px;
+  left: 65px;
+  top: 160px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+}
+.linileealea7 {
+  position: absolute;
+width: 390.83px;
+height: 45.91px;
+top: 150px;
+left: -40px;
+
+background: transparent;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+display: none;
+}
+.siSageataCC7 {
+  position: absolute;
+  width: 15.14px;
+  height: 0px;
+  left: 310px;
+  top: 162px;
+
+  display: none;
+  color:#104fac;
+
+}
+.oBalChestie {
+  position: absolute;
+  top: 880px;
+  left: 1500px;
+  width: 250px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+  
+}
+.balancegoldjosdreapta {
+  position: absolute;
+  top: 910px;
+  left: 1500px;
+  width: 250px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color:#104fac;
+  cursor: pointer;
+  
+}

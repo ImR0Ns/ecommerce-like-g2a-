@@ -1,0 +1,234 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.pr {
+  position: relative;
+  left: -400px;
+}
+.fImg {
+  position: absolute;
+  left: 0px;
+}
+a:hover {
+  text-decoration: none;
+}
+.titleZeodon {
+  position: absolute;
+  width: 136px;
+  height: 47px;
+  left: 939.48px;
+  top: 45.28px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 47px;
+  /* identical to box height */
+
+
+  color: #104FAC;
+
+
+}
+.backButton {
+  position: absolute;
+  width: 100px;
+  height: 35px;
+  left: 79.19px;
+  top: 44.37px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  
+  color: #104FAC;
+  
+}
+.sameZeodonBut {
+  position: absolute;
+  width: 522.21px;
+  height: 128px;
+  left: 666.9px;
+  top: 436.6px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 575;
+  font-size: 55px;
+  line-height: 64px;
+  
+  color: #104FAC;
+}
+.downloadRn {
+  position: absolute;
+  width: 984.16px;
+  height: 82px;
+  left: 666.9px;
+  top: 607.86px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 375;
+  font-size: 35px;
+  line-height: 41px;
+  
+  color: #1E90FF;
+  
+}
+.downloadRnG {
+  position: absolute;
+  width: 274.27px;
+  height: 58px;
+  left: 1177.69px;
+  top: 858.01px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #104FAC;
+
+}
+.availableRn {
+  position: absolute;
+  left: 666.9px;
+  right: 20.48%;
+  top: 960px;
+  bottom: 52.72%;
+  
+  width: 859.95px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 41px;
+  
+  color: #104FAC;
+  
+}
+.googlePlay {
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+  position: absolute;
+  left: 
+  666.9px;
+  right: 49.22%;
+  top: 1094.5px;
+  bottom: 48.13%;
+  width: 
+  308.01px;
+  height: 67.33px;
+  border: none;
+
+
+  background: #104FAC;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+  border-radius: 6px;
+
+}
+.appStore {
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+  position: absolute;
+  left: 
+  1015.03px;
+  right: 49.22%;
+  top: 1094.5px;
+  bottom: 48.13%;
+  width: 
+  308.01px;
+  height: 67.33px;
+  border: none;
+
+
+  background: #104FAC;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+  border-radius: 6px;
+
+}
+.huaweiStore {
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 0px 1px 4px rgba(255, 255, 255, 0.25);
+  position: absolute;
+  left: 
+  1363.17px;
+  right: 49.22%;
+  top: 1094.5px;
+  bottom: 48.13%;
+  width: 
+  308.01px;
+  height: 67.33px;
+  border: none;
+
+
+  background: #104FAC;
+  box-shadow: 0px 1px 4px rgba(16, 79, 172, 0.5);
+  border-radius: 6px;
+
+}
+.anotherTitl {
+  position: absolute;
+  width: 204px;
+  height: 70px;
+  left: 395px;
+  top: 1494px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 60px;
+  line-height: 70px;
+  
+  color: #1E90FF;
+  
+}
+.zeodonAnotherTitlD {
+  position: absolute;
+  width: 699px;
+  height: 53px;
+  left: 395px;
+  top: 1570px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 45px;
+  line-height: 53px;
+  /* identical to box height */
+  
+  
+  color: #104FAC;
+  
+}
+.backButton img {
+  margin-top: -5px;
+}

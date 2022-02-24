@@ -1,0 +1,442 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+.posR {
+  position: relative;
+  left: -390px;
+}
+.zeodonTilteO {
+position: absolute;
+width: 339px;
+height: 117px;
+left: 106.57px;
+top: 278.24px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+line-height: 117px;
+
+color: #4568DC;
+
+}
+.zeodonJoinR {
+position: absolute;
+width: 814px;
+height: 47px;
+left: 106.57px;
+top: 404.45px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+/* identical to box height */
+
+
+color: #4568DC;
+
+}
+.signUp {
+position: absolute;
+width: 119px;
+height: 41px;
+left: 1355.25px;
+top: 80px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 41px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.username {
+position: absolute;
+width: 379.2px;
+height: 57.49px;
+left: 1355.25px;
+top: 165.41px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+background-color: transparent;
+color: white;
+
+}
+.username::placeholder {
+  color: white;
+}
+.email {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+position: absolute;
+width: 379.2px;
+height: 57.49px;
+left: 1355.25px;
+top: 261.88px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.email::placeholder {
+  color: white;
+}
+.password {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+position: absolute;
+width: 379.2px;
+height: 57.49px;
+left: 1355.25px;
+top: 358.36px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.password::placeholder {
+  color: white;
+}
+.repeatPass {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+position: absolute;
+width: 379.2px;
+height: 57.49px;
+left: 1355.25px;
+top: 454.84px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+
+background-color: transparent;
+color: white;
+}
+.repeatPass::placeholder {
+  color: white;
+}
+.termsAndCond {
+position: absolute;
+width: 316px;
+height: 26px;
+left: 1377.04px;
+top: 554.32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+
+color: rgba(0, 0, 0, 0.5);
+}
+.singUpButt:hover {
+  text-decoration: none;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.singUpButt {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+position: absolute;
+width: 464.55px;
+height: 68.43px;
+left: 1312.58px;
+top: 629.37px;
+padding: 15px 0px 0px 180px;
+border: 2px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+}
+.baraAia {
+position: absolute;
+width: 518.49px;
+height: 0px;
+left: 1284.24px;
+top: 743.22px;
+
+border: 1px solid #FFFFFF;
+}
+.ezySignUp {
+position: absolute;
+width: 199px;
+height: 29px;
+left: 1312.58px;
+top: 772.74px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+}
+.bgTop {
+    position: absolute;
+    left: -10px;
+}
+.fbS {
+  position: absolute;
+  left: 1350px;
+  top: 830px;
+  border: 1px solid white;
+  padding: 10px 10px 10px 10px;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+}
+.googleS {
+  position: absolute;
+  left: 1450px;
+  top: 830px;
+  border: 1px solid white;
+  padding: 10px 10px 10px 10px;
+  border-radius: 50%;
+}
+.igS {
+  position: absolute;
+  left: 1550px;
+  top: 830px;
+  border: 1px solid white;
+  padding: 10px 10px 10px 10px;
+  border-radius: 50%;
+}
+.zeodonTitleTwo {
+position: absolute;
+width: 339px;
+height: 117px;
+left: 1025.59px;
+top: 2438.57px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+line-height: 117px;
+color: #4568DC;
+
+}
+.zeodonSubTitleTwo {
+position: absolute;
+width: 726px;
+height: 47px;
+left: 1026.36px;
+top: 2564.82px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 40px;
+line-height: 47px;
+color: #4568DC;
+}
+.signUpTwo {
+position: absolute;
+width: 138px;
+height: 47px;
+left: 159.69px;
+top: 2484.57px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 47px;
+color: white;
+}
+.firstName {
+
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 2587.63px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+background-color: transparent;
+color: white;
+}
+.firstName::placeholder {
+  color: white;
+}
+.lastName {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 2726.07px;
+color: white;
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.lastName::placeholder {
+  color: white;
+}
+.country {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 2864.51px;
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.country:focus {
+  color: black;
+ }
+.city {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 3002.95px;
+color: white;
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.city::placeholder {
+  color: white;
+} 
+.adress {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 3141.4px;
+color: white;
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.adress::placeholder {
+  color: white;
+}
+.zipCode {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+position: absolute;
+width: 528.36px;
+height: 75.81px;
+left: 159.69px;
+top: 3279.84px;
+color: white;
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+color: white;
+}
+.zipCode::placeholder {
+  color: white;
+}
+.finishBut {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+position: absolute;
+width: 357.9px;
+height: 78.95px;
+left: 330.15px;
+top: 3442.61px;
+
+border: 1.5px solid #FFFFFF;
+box-sizing: border-box;
+border-radius: 6px;
+background-color: transparent;
+}
+.bgBottom {
+  position: absolute;
+  left: -10px;
+  top: 1200px;
+}
